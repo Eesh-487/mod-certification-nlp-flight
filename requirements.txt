@@ -1,0 +1,35 @@
+# Core ML and Data Science
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+scipy>=1.9.0
+
+# NLP Libraries
+nltk>=3.8
+spacy>=3.4.0
+transformers>=4.20.0
+sentence-transformers>=2.2.0
+torch>=1.12.0
+
+# Similarity Search
+faiss-cpu>=1.7.2
+
+# UI Framework
+streamlit>=1.25.0
+
+# Visualization
+plotly>=5.10.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Additional ML
+xgboost>=1.6.0
+lightgbm>=3.3.0
+
+# Utility
+joblib>=1.2.0
+pickle5>=0.0.11
+tqdm>=4.64.0
+
+# Optional: For advanced features
+openai>=0.27.0  # If using OpenAI API
