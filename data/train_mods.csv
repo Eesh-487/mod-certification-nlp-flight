@@ -1,0 +1,177 @@
+mod_id,mod_description,mod_type,regulations,loi,aircraft_type,approval_date
+MOD-2023-033,Enhancement of system in tail section for operational efficiency with enhanced performance characteristics,Environmental,"CS 25.1419,CS 25.1420,CS 25.832,CS 25.561",High,ATR42,2023-12-16
+MOD-2023-049,Upgrade of compressor blade system in engine pylon for passenger comfort,Propulsion,"CS 25.933,CS 25.934,CS 25.903,AMC 20-149",High,ERJ,2023-02-26
+MOD-2022-044,Replacement of existing system in tail section with improved version for noise reduction with enhanced performance characteristics,Environmental,"CS 25.832,CS 25.1420,CS 25.831",High,A340,2022-06-06
+MOD-2024-031,Integration of display unit in nose section for navigation improvement meeting new certification requirements,Avionics,"CS 25.1431,AMC 20-115,CS 25.1309",Medium,B777,2024-05-25
+MOD-2021-016,Enhancement of oxygen system in cargo compartment for navigation improvement,Systems,"CS 25.965,CS 25.831,CS 25.1309",Medium,B787,2021-09-23
+MOD-2023-016,Replacement of existing autopilot in belly with improved version for regulatory compliance with enhanced performance characteristics,Avionics,"CS 25.1309,CS 25.1431,AMC 20-115",Low,A320,2023-02-13
+MOD-2024-023,Integration of system in trailing edge for navigation improvement with reduced environmental impact,Environmental,"CS 25.1420,AMC 25-831,CS 25.832,CS 25.1419",High,B777,2024-10-17
+MOD-2024-CT-010,Integrated evacuation system upgrade affecting both cabin and safety systems,Cabin/Safety,"CS 25.562,CS 25.853,CS 25.1457,CS 25.773",Medium,A321,2024-01-01
+MOD-2022-026,Relocation of pressure regulator in forward fuselage for fuel efficiency,Systems,"CS 25.965,CS 25.729",Medium,ATR42,2022-12-05
+MOD-2023-043,Replacement of existing tail cone in dorsal fuselage with improved version for system reliability,Structure,"CS 25.143,CS 25.561,AMC 20-22",Medium,B747,2023-10-06
+MOD-2023-001,Upgrade of system system in engine pylon for regulatory compliance,Electrical,"CS 25.1309,CS 25.1431",Low,A320,2023-05-31
+MOD-2021-031,Modification of smoke detector in tail section for fuel efficiency featuring redundant safety systems,Safety,"CS 25.1457,CS 25.807,AMC 25-17,CS 25.809",High,B777X,2021-06-25
+MOD-2024-041,Enhancement of oxygen mask in forward fuselage for passenger comfort,Safety,"AMC 25-17,CS 25.809,CS 25.807,CS 25.1457,CS 25.561",Medium,B777,2024-08-18
+MOD-2021-010,Enhancement of wing tip in tail section for noise reduction meeting new certification requirements,Structure,"CS 25.629,CS 25.561,CS 25.1309",High,ERJ,2021-06-03
+MOD-2022-018,Addition of floor panel in wing root for enhanced safety,Cabin,"CS 25.857,CS 25.773,CS 25.785,CS 25.853",Low,B777,2022-12-02
+MOD-2024-CT-019,Integrated emergency system modification affecting both systems and safety systems,Systems/Safety,"CS 25.965,CS 25.1441,CS 25.562,AMC 25-17,CS 25.561",High,B737MAX,2024-01-01
+MOD-2024-026,Removal of tail cone in belly for maintenance optimization incorporating latest technology standards,Structure,"CS 25.143,CS 25.629,CS 25.321",Low,A300F,2024-10-10
+MOD-2021-019,Removal of engine cowling in belly for cost reduction,Propulsion,"CS 25.903,CS 25.934,CS 25.561",High,ATR72,2021-10-17
+MOD-2024-048,Enhancement of overhead bin in aft fuselage for system reliability,Cabin,"CS 25.853,CS 25.857,CS 25.812,AMC 20-22",High,CRJ,2024-11-29
+MOD-2022-017,Retrofit of system in landing gear bay for communication enhancement affecting structural integrity,Electrical,"AMC 25-12,CS 25.1309",Low,B747,2022-01-20
+MOD-2024-040,Upgrade of system system in aft fuselage for improved performance,Electrical,"AMC 25-12,CS 25.1431,CS 25.1383",Medium,A320,2024-01-23
+MOD-2022-047,Retrofit of emergency exit sign in cockpit for passenger comfort affecting structural integrity,Safety,"AMC 25-17,CS 25.562,CS 25.1309",High,B787,2022-04-30
+MOD-2024-CT-011,Integrated integrated flight system affecting both avionics and systems systems,Avionics/Systems,"AMC 20-151,CS 25.1309,CS 25.831,CS 25.1441",High,A380,2024-01-01
+MOD-2021-026,Modification of weather radar in aft fuselage for passenger comfort,Avionics,"AMC 20-130,AMC 20-115,AMC 20-151,AMC 20-22",Medium,B737,2021-08-21
+MOD-2023-028,Relocation of system in wing tip for operational efficiency with reduced environmental impact,Electrical,"CS 25.1383,AMC 25-12,CS 25.1309",Low,ATR72,2023-04-28
+MOD-2024-CT-002,Integrated antenna installation affecting structure affecting both avionics and structure systems,Avionics/Structure,"CS 25.321,CS 25.629,AMC 20-151,CS 25.1431",Low,ERJ,2024-01-01
+MOD-2022-048,Relocation of belly fairing in engine pylon for navigation improvement,Structure,"CS 25.629,CS 25.321,AMC 20-22",Medium,A380,2022-01-03
+MOD-2021-017,Modification of floor panel in nose section for navigation improvement with enhanced performance characteristics,Cabin,"CS 25.853,CS 25.785,CS 25.857",Low,ERJ,2021-02-17
+MOD-2021-046,Enhancement of system in nose section for cost reduction meeting new certification requirements,Electrical,"CS 25.1431,CS 25.1383,CS 25.1309,AMC 25-12,AMC 20-22",Low,ERJ,2021-04-22
+MOD-2024-005,Installation of new landing gear bay in trailing edge for enhanced safety with reduced environmental impact,Structure,"CS 25.783,CS 25.561,CS 25.1309",High,ATR42,2024-02-19
+MOD-2023-012,Integration of system in aft fuselage for passenger comfort including improved materials,Environmental,"AMC 25-831,CS 25.1420,CS 25.1419,AMC 20-22",High,B777X,2023-05-16
+MOD-2022-006,Modification of system in tail section for cost reduction with advanced control algorithms,Electrical,"CS 25.1309,AMC 25-12,CS 25.1381,CS 25.1431",Low,A300F,2022-04-04
+MOD-2023-009,Integration of autopilot in dorsal fuselage for enhanced safety,Avionics,"AMC 20-115,AMC 20-151",Medium,B737MAX,2023-07-16
+MOD-2024-047,Modification of compressor blade in forward fuselage for cost reduction incorporating latest technology standards,Propulsion,"CS 25.901,AMC 20-149,AMC 20-22",High,ATR72,2024-07-14
+MOD-2022-024,Retrofit of lighting system in trailing edge for passenger comfort affecting structural integrity,Cabin,"CS 25.812,CS 25.857,CS 25.785,CS 25.561",Low,A330,2022-09-07
+MOD-2023-010,Installation of new temperature sensor in landing gear bay for operational efficiency with reduced environmental impact,Systems,"CS 25.831,CS 25.965,AMC 20-22",Low,B787,2023-01-12
+MOD-2022-033,Installation of new system in wing root for enhanced safety incorporating latest technology standards,Environmental,"AMC 25-831,CS 25.832,CS 25.1309",Medium,A330,2022-11-29
+MOD-2023-039,Installation of new flow meter in belly for maintenance optimization,Systems,"CS 25.729,CS 25.841,CS 25.965,CS 25.831,CS 25.561",Medium,B777,2023-02-08
+MOD-2023-042,Enhancement of system in landing gear bay for passenger comfort including improved materials,Environmental,"CS 25.832,CS 25.1420,CS 25.831,AMC 25-831,CS 25.561",High,B777X,2023-07-24
+MOD-2023-002,Relocation of passenger seat in leading edge for fuel efficiency with enhanced performance characteristics,Cabin,"CS 25.785,CS 25.812",Low,ATR72,2023-02-14
+MOD-2022-037,Removal of fuel control unit in cockpit for regulatory compliance,Propulsion,"CS 25.933,AMC 20-149",High,A380,2022-10-19
+MOD-2024-044,Retrofit of flotation device in landing gear bay for communication enhancement affecting structural integrity,Safety,"CS 25.807,CS 25.562,AMC 20-22",High,B737,2024-11-07
+MOD-2023-021,Installation of new lighting system in cockpit for operational efficiency,Cabin,"CS 25.785,CS 25.853,CS 25.857,CS 25.773,CS 25.1309",Low,A330,2023-10-10
+MOD-2022-046,Modification of tail cone in tail section for operational efficiency with reduced environmental impact,Structure,"CS 25.629,CS 25.561",Low,B777X,2022-11-05
+MOD-2022-030,Replacement of existing compressor blade in cockpit with improved version for maintenance optimization meeting new certification requirements,Propulsion,"CS 25.933,CS 25.934,AMC 20-149,AMC 20-22",High,A340,2022-12-17
+MOD-2024-CT-018,Integrated emergency system modification affecting both systems and safety systems,Systems/Safety,"CS 25.562,CS 25.809,CS 25.729,CS 25.831,CS 25.561",High,A330F,2024-01-01
+MOD-2023-014,Relocation of flotation device in tail section for regulatory compliance,Safety,"CS 25.1457,AMC 25-17,CS 25.562,CS 25.809",High,A350,2023-07-29
+MOD-2023-041,Installation of new system in tail section for maintenance optimization affecting structural integrity,Electrical,"AMC 25-12,CS 25.1309,CS 25.561",Low,B787,2023-01-07
+MOD-2023-023,Addition of oxygen mask in wing root for maintenance optimization with advanced control algorithms,Safety,"AMC 25-17,CS 25.1457,CS 25.809,CS 25.807,CS 25.1309",High,ATR72,2023-10-13
+MOD-2024-013,Installation of new fuselage reinforcement in cabin for regulatory compliance,Structure,"CS 25.561,CS 25.321,CS 25.629,CS 25.143",High,A330,2024-04-06
+MOD-2024-CT-016,Integrated evacuation system upgrade affecting both cabin and safety systems,Cabin/Safety,"AMC 25-17,CS 25.853,CS 25.1457,CS 25.857",High,B777X,2024-01-01
+MOD-2021-039,Relocation of control surface in belly for passenger comfort with reduced environmental impact,Structure,"CS 25.143,CS 25.783,AMC 20-22",Medium,A330F,2021-03-13
+MOD-2021-025,Replacement of existing oxygen system in trailing edge with improved version for cost reduction meeting new certification requirements,Systems,"CS 25.965,CS 25.831,CS 25.729,CS 25.1441,AMC 20-22",High,A300F,2021-04-10
+MOD-2024-036,Replacement of existing system in wing tip with improved version for system reliability incorporating latest technology standards,Electrical,"CS 25.1383,CS 25.1431,CS 25.1309,AMC 25-12,AMC 20-22",Low,A320,2024-10-19
+MOD-2023-038,Replacement of existing system in aft fuselage with improved version for fuel efficiency with advanced control algorithms,Environmental,"CS 25.1420,AMC 25-831,CS 25.1419,CS 25.831,AMC 20-22",Low,ERJ,2023-06-02
+MOD-2021-030,Modification of smoke detector in wing tip for regulatory compliance meeting new certification requirements,Safety,"CS 25.562,CS 25.809",Low,A330,2021-09-11
+MOD-2021-020,Upgrade of lighting system system in cabin for fuel efficiency meeting new certification requirements,Cabin,"CS 25.857,CS 25.773,CS 25.785,CS 25.812",Low,A350,2021-10-09
+MOD-2022-020,Removal of navigation system in aft fuselage for passenger comfort,Avionics,"AMC 20-151,CS 25.1431,CS 25.1309",Low,B777X,2022-07-22
+MOD-2024-CT-006,Integrated emergency system modification affecting both systems and safety systems,Systems/Safety,"CS 25.807,CS 25.841,CS 25.729,AMC 20-22,CS 25.1457",High,A330,2024-01-01
+MOD-2022-011,Addition of landing gear bay in cargo compartment for enhanced safety meeting new certification requirements,Structure,"CS 25.629,CS 25.143,CS 25.1309",High,B737,2022-01-11
+MOD-2022-019,Removal of fire extinguisher in cargo compartment for improved performance,Safety,"CS 25.562,AMC 25-17,CS 25.1457,CS 25.561",Medium,B747,2022-03-16
+MOD-2021-006,Enhancement of smoke detector in belly for noise reduction with reduced environmental impact,Safety,"CS 25.807,CS 25.809,CS 25.1457,AMC 25-17",High,B787,2021-11-09
+MOD-2023-040,Removal of autopilot in engine pylon for enhanced safety affecting structural integrity,Avionics,"CS 25.1431,CS 25.1309,AMC 20-115,AMC 20-151,CS 25.561",High,A320,2023-08-27
+MOD-2022-007,Relocation of weather radar in cargo compartment for system reliability affecting structural integrity,Avionics,"CS 25.1309,AMC 20-130,AMC 20-151",Low,B777,2022-01-21
+MOD-2024-007,Addition of control surface in tail section for cost reduction,Structure,"CS 25.629,CS 25.783",Low,B787,2024-01-03
+MOD-2024-027,Modification of VHF radio in belly for improved performance,Avionics,"CS 25.1431,CS 25.1309,AMC 20-130,CS 25.561",Medium,A350,2024-03-10
+MOD-2024-014,Retrofit of lighting system in cargo compartment for regulatory compliance incorporating latest technology standards,Cabin,"CS 25.812,CS 25.773",Low,ATR42,2024-03-06
+MOD-2022-016,Relocation of air conditioning pack in wing tip for maintenance optimization including improved materials,Systems,"CS 25.1441,CS 25.729,CS 25.965,CS 25.1309",Medium,B777X,2022-10-03
+MOD-2023-013,Modification of belly fairing in landing gear bay for enhanced safety,Structure,"CS 25.561,CS 25.629",Medium,A330,2023-07-11
+MOD-2024-037,Relocation of galley equipment in leading edge for passenger comfort,Cabin,"CS 25.853,CS 25.812,CS 25.773,CS 25.1309",Low,A350,2024-06-02
+MOD-2024-006,Enhancement of transponder in cabin for operational efficiency incorporating latest technology standards,Avionics,"AMC 20-151,AMC 20-130,CS 25.1309",Low,A300F,2024-10-19
+MOD-2021-032,Integration of system in belly for fuel efficiency,Electrical,"CS 25.1431,CS 25.1309,AMC 25-12",Low,ERJ,2021-05-18
+MOD-2021-013,Installation of new overhead bin in leading edge for noise reduction meeting new certification requirements,Cabin,"CS 25.812,CS 25.785,CS 25.561",Low,ERJ,2021-10-15
+MOD-2021-036,Relocation of cargo door in nose section for operational efficiency with advanced control algorithms,Structure,"CS 25.629,CS 25.783,CS 25.143",High,A300F,2021-12-01
+MOD-2021-029,Integration of system in nose section for operational efficiency with advanced control algorithms,Electrical,"AMC 25-12,CS 25.1309,CS 25.1383",High,ATR42,2021-02-02
+MOD-2021-043,Removal of emergency exit sign in aft fuselage for communication enhancement,Safety,"AMC 25-17,CS 25.809,CS 25.1457,AMC 20-22",High,B737MAX,2021-05-19
+MOD-2022-035,Modification of system in leading edge for navigation improvement with reduced environmental impact,Electrical,"CS 25.1431,CS 25.1383,AMC 25-12,CS 25.1381",High,A320,2022-10-26
+MOD-2023-005,Upgrade of cabin divider system in engine pylon for regulatory compliance featuring redundant safety systems,Cabin,"CS 25.857,CS 25.812",Low,ATR72,2023-02-16
+MOD-2024-001,Installation of new hydraulic pump in tail section for fuel efficiency with enhanced performance characteristics,Systems,"CS 25.965,CS 25.831",High,ATR42,2024-06-12
+MOD-2022-002,Installation of new weather radar in cabin for navigation improvement including improved materials,Avionics,"AMC 20-130,AMC 20-115",Low,A330F,2022-05-04
+MOD-2023-025,Removal of thrust reverser in forward fuselage for fuel efficiency featuring redundant safety systems,Propulsion,"CS 25.901,CS 25.933,AMC 20-22",High,A340,2023-12-01
+MOD-2024-028,Addition of collision avoidance system in cabin for noise reduction featuring redundant safety systems,Avionics,"AMC 20-115,AMC 20-130,CS 25.1431,CS 25.1309",High,ATR72,2024-11-22
+MOD-2022-027,Replacement of existing safety belt in belly with improved version for maintenance optimization affecting structural integrity,Safety,"AMC 25-17,CS 25.809,CS 25.807,CS 25.561",High,A300F,2022-04-16
+MOD-2021-042,Retrofit of life vest in aft fuselage for enhanced safety,Safety,"AMC 25-17,CS 25.807,CS 25.809,CS 25.562,CS 25.561",High,ATR42,2021-10-06
+MOD-2023-036,Integration of transponder in wing root for fuel efficiency including improved materials,Avionics,"AMC 20-115,AMC 20-151,CS 25.561",Low,B777X,2023-05-28
+MOD-2022-029,Installation of new wing tip in tail section for enhanced safety,Structure,"CS 25.629,CS 25.783,CS 25.1309",High,ATR42,2022-06-19
+MOD-2024-029,Upgrade of lighting system system in trailing edge for fuel efficiency incorporating latest technology standards,Cabin,"CS 25.773,CS 25.812,CS 25.785,CS 25.853,CS 25.1309",Low,B777X,2024-08-31
+MOD-2021-027,Addition of evacuation system in nose section for enhanced safety including improved materials,Safety,"CS 25.1457,CS 25.562,CS 25.1309",High,CRJ,2021-03-17
+MOD-2023-047,Upgrade of fuel control unit system in wing root for communication enhancement,Propulsion,"AMC 20-149,CS 25.934",High,A340,2023-02-12
+MOD-2024-024,Integration of transponder in nose section for operational efficiency incorporating latest technology standards,Avionics,"AMC 20-115,CS 25.1431,AMC 20-130,AMC 20-151,AMC 20-22",Medium,B777X,2024-10-29
+MOD-2024-CT-007,Integrated integrated flight system affecting both avionics and systems systems,Avionics/Systems,"AMC 20-130,CS 25.965,AMC 20-115,CS 25.1309,CS 25.831",High,B737MAX,2024-01-01
+MOD-2021-001,Modification of cabin divider in dorsal fuselage for enhanced safety,Cabin,"CS 25.812,CS 25.773,CS 25.853",Low,A300F,2021-07-06
+MOD-2021-003,Modification of navigation system in cargo compartment for operational efficiency,Avionics,"AMC 20-130,AMC 20-115,CS 25.561",High,A330F,2021-11-23
+MOD-2022-028,Addition of pressure regulator in aft fuselage for passenger comfort incorporating latest technology standards,Systems,"CS 25.831,CS 25.729,CS 25.1441",High,A330,2022-05-16
+MOD-2021-047,Addition of system in forward fuselage for maintenance optimization affecting structural integrity,Environmental,"AMC 25-831,CS 25.1419",Medium,A300F,2021-01-17
+MOD-2024-004,Relocation of oil system in trailing edge for noise reduction affecting structural integrity,Propulsion,"AMC 20-149,CS 25.901,CS 25.903,AMC 20-22",High,ATR72,2024-07-21
+MOD-2023-019,Integration of display unit in nose section for enhanced safety affecting structural integrity,Avionics,"AMC 20-151,CS 25.1309,CS 25.1431,AMC 20-130,AMC 20-22",High,A330,2023-07-21
+MOD-2022-041,Retrofit of engine cowling in wing tip for fuel efficiency with enhanced performance characteristics,Propulsion,"CS 25.933,CS 25.901,CS 25.561",High,ATR72,2022-10-09
+MOD-2022-036,Addition of fuel control unit in forward fuselage for system reliability including improved materials,Propulsion,"CS 25.933,CS 25.903,CS 25.934,CS 25.901",Medium,B747,2023-01-01
+MOD-2023-048,Installation of new system in engine pylon for enhanced safety including improved materials,Electrical,"AMC 25-12,CS 25.1431,CS 25.1309,CS 25.1381",High,B787,2023-04-08
+MOD-2022-049,Addition of system in nose section for noise reduction,Environmental,"CS 25.1420,CS 25.1419",Low,A340,2022-07-12
+MOD-2021-037,Upgrade of compressor blade system in forward fuselage for noise reduction with advanced control algorithms,Propulsion,"CS 25.933,CS 25.901,CS 25.903",High,A300F,2021-03-03
+MOD-2023-026,Installation of new lavatory in belly for operational efficiency meeting new certification requirements,Cabin,"CS 25.857,CS 25.785,CS 25.773,AMC 20-22",Low,B737MAX,2023-02-02
+MOD-2022-012,Relocation of valve assembly in tail section for maintenance optimization,Systems,"CS 25.841,CS 25.1441,CS 25.729,CS 25.831,CS 25.561",Medium,ATR72,2022-11-26
+MOD-2021-023,Enhancement of system in tail section for noise reduction with advanced control algorithms,Environmental,"CS 25.831,AMC 25-831,CS 25.1419,CS 25.832",Medium,A350,2021-12-30
+MOD-2023-045,Enhancement of belly fairing in cockpit for navigation improvement with advanced control algorithms,Structure,"CS 25.143,CS 25.561,CS 25.321,CS 25.783",High,A330F,2023-03-22
+MOD-2023-018,Upgrade of passenger seat system in nose section for enhanced safety meeting new certification requirements,Cabin,"CS 25.773,CS 25.853",Medium,A350,2023-06-21
+MOD-2021-034,Integration of thrust reverser in dorsal fuselage for fuel efficiency with advanced control algorithms,Propulsion,"CS 25.901,AMC 20-149,CS 25.933",Low,B777,2021-06-29
+MOD-2021-012,Enhancement of exhaust nozzle in landing gear bay for noise reduction with enhanced performance characteristics,Propulsion,"CS 25.903,CS 25.933,CS 25.1309",High,B737,2021-04-23
+MOD-2024-CT-015,Integrated engine mount modification affecting both structure and propulsion systems,Structure/Propulsion,"CS 25.629,CS 25.1309,CS 25.901,CS 25.903,CS 25.561",Low,B747,2024-01-01
+MOD-2024-034,Removal of system in leading edge for maintenance optimization,Environmental,"AMC 25-831,CS 25.831,CS 25.561",Low,ATR72,2024-03-04
+MOD-2021-007,Integration of air conditioning pack in belly for cost reduction incorporating latest technology standards,Systems,"CS 25.965,CS 25.831,CS 25.1309",High,B777X,2021-03-14
+MOD-2021-028,Upgrade of ignition system system in cabin for passenger comfort affecting structural integrity,Propulsion,"CS 25.903,AMC 20-149,CS 25.901,CS 25.561",High,A321,2021-09-09
+MOD-2023-037,Upgrade of flow meter system in landing gear bay for enhanced safety,Systems,"CS 25.841,CS 25.1441",High,A300F,2023-04-23
+MOD-2024-CT-012,Integrated antenna installation affecting structure affecting both avionics and structure systems,Avionics/Structure,"AMC 20-151,CS 25.1309,CS 25.321,AMC 20-22,CS 25.561",High,A330,2024-01-01
+MOD-2024-CT-004,Integrated integrated flight system affecting both avionics and systems systems,Avionics/Systems,"AMC 20-151,CS 25.1431,CS 25.1441,CS 25.1309,CS 25.729,AMC 20-22",High,A380,2024-01-01
+MOD-2021-005,Replacement of existing lighting system in cabin with improved version for regulatory compliance incorporating latest technology standards,Cabin,"CS 25.853,CS 25.812,CS 25.1309",High,B777X,2021-09-07
+MOD-2021-033,Replacement of existing compressor blade in dorsal fuselage with improved version for operational efficiency incorporating latest technology standards,Propulsion,"CS 25.934,AMC 20-149,CS 25.901",High,ATR72,2021-02-02
+MOD-2023-020,Removal of wall panel in belly for cost reduction with advanced control algorithms,Cabin,"CS 25.812,CS 25.857",Low,A321,2023-10-13
+MOD-2024-010,Removal of system in cargo compartment for fuel efficiency,Environmental,"CS 25.1420,CS 25.832,AMC 25-831",Low,ATR72,2024-07-31
+MOD-2023-027,Modification of landing gear actuator in cargo compartment for maintenance optimization meeting new certification requirements,Systems,"CS 25.841,CS 25.1441,CS 25.729,CS 25.561",High,A340,2023-05-29
+MOD-2024-009,Upgrade of smoke detector system in nose section for noise reduction featuring redundant safety systems,Safety,"CS 25.562,CS 25.1457,CS 25.809,AMC 20-22",High,A350,2024-09-30
+MOD-2023-015,Removal of engine cowling in wing root for passenger comfort with reduced environmental impact,Propulsion,"CS 25.933,CS 25.903,CS 25.901,CS 25.934",High,A380,2023-11-02
+MOD-2021-011,Retrofit of exhaust nozzle in wing root for enhanced safety meeting new certification requirements,Propulsion,"CS 25.901,CS 25.903,AMC 20-149,AMC 20-22",High,B787,2021-09-27
+MOD-2022-013,Relocation of air conditioning pack in cabin for passenger comfort with reduced environmental impact,Systems,"CS 25.831,CS 25.965,CS 25.1441,CS 25.841,CS 25.561",Medium,B777,2022-11-14
+MOD-2024-015,Retrofit of collision avoidance system in cockpit for fuel efficiency featuring redundant safety systems,Avionics,"AMC 20-115,CS 25.1431,AMC 20-151,CS 25.1309",High,ATR42,2024-03-31
+MOD-2024-045,Integration of landing gear bay in cargo compartment for maintenance optimization with reduced environmental impact,Structure,"CS 25.561,CS 25.629,CS 25.321,CS 25.783",High,A380,2024-09-09
+MOD-2024-032,Upgrade of communication equipment system in engine pylon for fuel efficiency,Avionics,"AMC 20-151,AMC 20-130,AMC 20-22",Medium,A320,2024-08-21
+MOD-2023-029,Removal of temperature sensor in cockpit for system reliability with reduced environmental impact,Systems,"CS 25.831,CS 25.965,CS 25.841",Low,A320,2023-06-17
+MOD-2024-049,Removal of flow meter in cockpit for maintenance optimization with reduced environmental impact,Systems,"CS 25.841,CS 25.729,AMC 20-22",Medium,B737MAX,2024-06-30
+MOD-2024-018,Retrofit of smoke detector in cargo compartment for navigation improvement including improved materials,Safety,"AMC 25-17,CS 25.1457,CS 25.807",High,B777,2024-04-11
+MOD-2022-021,Modification of communication equipment in wing tip for navigation improvement incorporating latest technology standards,Avionics,"AMC 20-130,CS 25.1431,CS 25.561",Medium,A300F,2022-09-24
+MOD-2024-021,Removal of GPS system in cargo compartment for regulatory compliance,Avionics,"AMC 20-130,AMC 20-115",Medium,B737,2024-02-08
+MOD-2022-015,Installation of new air conditioning pack in cabin for noise reduction,Systems,"CS 25.831,CS 25.1441,CS 25.965,CS 25.729",High,B737,2022-12-21
+MOD-2021-045,Removal of system in cockpit for system reliability,Environmental,"AMC 25-831,CS 25.832,CS 25.831,CS 25.1420",Medium,ATR72,2021-11-10
+MOD-2023-044,Upgrade of fuel nozzle system in cabin for enhanced safety featuring redundant safety systems,Propulsion,"CS 25.903,CS 25.901,CS 25.934,CS 25.933,AMC 20-22",High,A320,2023-02-13
+MOD-2021-041,Integration of fuel pump in landing gear bay for improved performance with reduced environmental impact,Systems,"CS 25.831,CS 25.1441",Medium,B737,2021-05-08
+MOD-2023-024,Addition of flotation device in cockpit for communication enhancement,Safety,"AMC 25-17,CS 25.1457,CS 25.1309",Medium,B777X,2023-01-14
+MOD-2021-024,Replacement of existing safety belt in landing gear bay with improved version for operational efficiency,Safety,"CS 25.809,CS 25.562,CS 25.1457,AMC 25-17,AMC 20-22",High,ERJ,2021-02-01
+MOD-2024-016,Modification of engine cowling in forward fuselage for regulatory compliance,Propulsion,"CS 25.901,CS 25.903,AMC 20-149",High,A330F,2024-09-03
+MOD-2024-012,Addition of galley equipment in nose section for system reliability with reduced environmental impact,Cabin,"CS 25.812,CS 25.785,CS 25.857,CS 25.853",High,A320,2024-12-01
+MOD-2022-032,Modification of turbine section in leading edge for cost reduction with reduced environmental impact,Propulsion,"CS 25.934,CS 25.903,CS 25.901,CS 25.561",High,CRJ,2022-01-03
+MOD-2021-040,Relocation of valve assembly in aft fuselage for passenger comfort with enhanced performance characteristics,Systems,"CS 25.841,CS 25.729,CS 25.1309",Medium,A320,2021-01-22
+MOD-2024-035,Upgrade of tail cone system in dorsal fuselage for navigation improvement,Structure,"CS 25.321,CS 25.143",Medium,CRJ,2024-05-09
+MOD-2021-048,Addition of door frame in belly for passenger comfort with reduced environmental impact,Structure,"CS 25.321,CS 25.783,CS 25.561,CS 25.629,CS 25.1309",High,A350,2021-10-14
+MOD-2022-045,Modification of passenger seat in wing root for noise reduction with advanced control algorithms,Cabin,"CS 25.857,CS 25.785,CS 25.853,CS 25.812",Low,A321,2022-09-29
+MOD-2024-019,Enhancement of system in dorsal fuselage for operational efficiency including improved materials,Electrical,"CS 25.1309,AMC 25-12,CS 25.1381",Low,A330,2024-11-18
+MOD-2021-044,Removal of oil system in wing tip for navigation improvement with advanced control algorithms,Propulsion,"CS 25.903,AMC 20-149",Medium,B787,2021-05-11
+MOD-2023-046,Installation of new landing gear actuator in engine pylon for operational efficiency with advanced control algorithms,Systems,"CS 25.831,CS 25.1441,CS 25.729",Low,B737,2023-12-28
+MOD-2024-003,Upgrade of system system in leading edge for operational efficiency,Environmental,"CS 25.1420,CS 25.1419",Medium,A321,2024-12-30
+MOD-2021-004,Addition of system in belly for regulatory compliance affecting structural integrity,Electrical,"CS 25.1383,CS 25.1381,CS 25.1431",Medium,ATR72,2021-01-16
+MOD-2023-006,Replacement of existing landing gear bay in landing gear bay with improved version for regulatory compliance incorporating latest technology standards,Structure,"CS 25.321,CS 25.143",Medium,B747,2023-01-14
+MOD-2022-004,Removal of engine mount in dorsal fuselage for enhanced safety affecting structural integrity,Propulsion,"CS 25.933,CS 25.901,AMC 20-149,CS 25.934,AMC 20-22",High,B747,2022-07-10
+MOD-2023-034,Integration of pressure regulator in leading edge for navigation improvement with reduced environmental impact,Systems,"CS 25.1441,CS 25.729,CS 25.841,CS 25.965,CS 25.1309",Medium,ATR72,2023-03-31
+MOD-2024-050,Addition of landing gear actuator in tail section for maintenance optimization,Systems,"CS 25.1441,CS 25.965,CS 25.841,CS 25.1309",Low,CRJ,2024-01-15
+MOD-2024-022,Relocation of entertainment system in cockpit for communication enhancement affecting structural integrity,Cabin,"CS 25.812,CS 25.785,CS 25.773,CS 25.853,AMC 20-22",Low,ATR72,2024-05-11
+MOD-2024-CT-005,Integrated emergency system modification affecting both systems and safety systems,Systems/Safety,"CS 25.1441,CS 25.562,CS 25.841,AMC 20-22,CS 25.1457",High,ERJ,2024-01-01
+MOD-2021-050,Retrofit of autopilot in trailing edge for communication enhancement incorporating latest technology standards,Avionics,"AMC 20-130,AMC 20-115,AMC 20-151,CS 25.1431,CS 25.561",Medium,A300F,2021-01-14
+MOD-2022-031,Replacement of existing flotation device in engine pylon with improved version for passenger comfort with enhanced performance characteristics,Safety,"AMC 25-17,CS 25.562,CS 25.1457,CS 25.561",High,A340,2022-04-28
+MOD-2021-035,Removal of system in trailing edge for system reliability,Electrical,"CS 25.1381,CS 25.1309,AMC 25-12",Low,B787,2021-03-10
+MOD-2021-008,Upgrade of GPS system system in aft fuselage for maintenance optimization with enhanced performance characteristics,Avionics,"AMC 20-151,CS 25.1431,CS 25.1309",Low,B737,2021-07-31
+MOD-2023-011,Replacement of existing valve assembly in leading edge with improved version for regulatory compliance with enhanced performance characteristics,Systems,"CS 25.729,CS 25.831,CS 25.1441,CS 25.965",Low,ERJ,2023-04-05
+MOD-2022-042,Removal of autopilot in cabin for enhanced safety,Avionics,"CS 25.1431,AMC 20-130,CS 25.1309",Medium,B747,2022-07-16
+MOD-2022-034,Integration of fire extinguisher in forward fuselage for enhanced safety,Safety,"CS 25.807,CS 25.1457,CS 25.562",Medium,A330,2022-05-23
+MOD-2024-046,Modification of galley equipment in wing tip for enhanced safety,Cabin,"CS 25.857,CS 25.773,CS 25.561",Medium,A320,2024-10-04
+MOD-2024-CT-001,Integrated evacuation system upgrade affecting both cabin and safety systems,Cabin/Safety,"CS 25.807,CS 25.857,CS 25.773,CS 25.809,CS 25.561",High,A300F,2024-01-01
+MOD-2022-040,Retrofit of fire suppression system in forward fuselage for navigation improvement,Systems,"CS 25.1441,CS 25.729,CS 25.841",Medium,ATR72,2022-06-18
+MOD-2021-009,Retrofit of system in dorsal fuselage for maintenance optimization,Electrical,"CS 25.1431,AMC 25-12,CS 25.1309",Medium,A330F,2021-03-05
+MOD-2021-014,Enhancement of air outlet in leading edge for system reliability with reduced environmental impact,Cabin,"CS 25.785,CS 25.857,CS 25.853,CS 25.1309",Low,ERJ,2021-02-04
+MOD-2022-010,Upgrade of engine mount system in landing gear bay for communication enhancement,Propulsion,"CS 25.901,CS 25.933,AMC 20-149",High,A321,2022-12-09
+MOD-2024-CT-014,Integrated integrated flight system affecting both avionics and systems systems,Avionics/Systems,"CS 25.965,CS 25.1441,CS 25.1309,AMC 20-115,CS 25.561",Low,A340,2024-01-01
+MOD-2023-032,Enhancement of system in wing tip for passenger comfort,Electrical,"CS 25.1431,AMC 25-12",Low,B737,2023-08-12
+MOD-2021-018,Upgrade of system system in wing tip for communication enhancement including improved materials,Electrical,"CS 25.1431,CS 25.1381,CS 25.1309,AMC 25-12",Medium,A330F,2021-06-22
+MOD-2024-017,Upgrade of lavatory system in cargo compartment for noise reduction with reduced environmental impact,Cabin,"CS 25.853,CS 25.812,CS 25.785,CS 25.857",High,ATR72,2024-05-13
+MOD-2022-023,Replacement of existing system in landing gear bay with improved version for communication enhancement with reduced environmental impact,Electrical,"CS 25.1309,AMC 25-12,AMC 20-22",Medium,ATR72,2022-12-25
+MOD-2024-043,Addition of flight management system in aft fuselage for regulatory compliance incorporating latest technology standards,Avionics,"AMC 20-151,CS 25.1309",Low,B777,2024-03-31

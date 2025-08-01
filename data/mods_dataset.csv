@@ -1,0 +1,264 @@
+mod_id,mod_description,mod_type,regulations,loi,aircraft_type
+MOD0001,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-151",Low,A350
+MOD0002,Installation of dual vhf antennas on fuselage,Avionics,"CS 25.1431, AMC 20-115",Low,E170
+MOD0003,Upgrade of navigation database software with improved signal processing capabilities,Avionics,"CS 25.1431, AMC 20-115",Low,B767
+MOD0004,Integration of ads-b out system,Avionics,"CS 25.1431, AMC 20-115",Low,B737
+MOD0005,Upgrade of navigation database software for enhanced navigation accuracy,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,A321
+MOD0006,Integration of ads-b out system with improved signal processing capabilities,Avionics,"CS 25.1431, AMC 20-22",High,A321
+MOD0007,Integration of ads-b out system for enhanced navigation accuracy,Avionics,"CS 25.1431, AMC 20-22",Medium,A320
+MOD0008,Installation of dual vhf antennas on fuselage with improved signal processing capabilities,Avionics,"CS 25.1431, AMC 20-115",Medium,CRJ700
+MOD0009,Upgrade of navigation database software including electromagnetic interference shielding,Avionics,"CS 25.1431, AMC 20-115",Medium,B737
+MOD0010,Upgrade of navigation database software with software version v5.2 compliance,Avionics,"CS 25.1309, AMC 20-151",Low,B767
+MOD0011,Upgrade of navigation database software featuring redundant backup systems,Avionics,"CS 25.1431, AMC 20-115",Medium,A320
+MOD0012,Installation of dual vhf antennas on fuselage for enhanced navigation accuracy,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,E170
+MOD0013,Installation of dual vhf antennas on fuselage including electromagnetic interference shielding,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,B787
+MOD0014,Upgrade of navigation database software with enhanced cybersecurity protocols,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,A321
+MOD0015,Integration of ads-b out system including electromagnetic interference shielding,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,A321
+MOD0016,Installation of dual vhf antennas on fuselage with software version {version} compliance,Avionics,"CS 25.1431, AMC 20-22",High,A321
+MOD0017,Installation of dual vhf antennas on fuselage featuring redundant backup systems,Avionics,"CS 25.1431, AMC 20-115",Low,A330
+MOD0018,Upgrade of navigation database software for oceanic flight operations,Avionics,"CS 25.1431, AMC 20-115",Medium,B737
+MOD0019,Integration of ads-b out system with software version {version} compliance,Avionics,"CS 25.1431, AMC 20-115",Low,A350
+MOD0020,Upgrade of navigation database software including weather radar integration,Avionics,"CS 25.1431, AMC 20-22",Medium,A330
+MOD0022,Integration of ads-b out system featuring redundant backup systems,Avionics,"CS 25.1431, AMC 20-115",Low,A321
+MOD0025,Installation of dual vhf antennas on fuselage with enhanced cybersecurity protocols,Avionics,"CS 25.1309, AMC 20-130",Medium,A380
+MOD0026,Integration of ads-b out system with enhanced cybersecurity protocols,Avionics,"CS 25.1431, AMC 20-22",High,B777
+MOD0028,Installation of dual vhf antennas on fuselage for oceanic flight operations,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,B737
+MOD0029,Installation of dual vhf antennas on fuselage including weather radar integration,Avionics,"CS 25.1309, AMC 20-151",Low,B737
+MOD0031,Integration of ads-b out system for oceanic flight operations,Avionics,"CS 25.1309, AMC 20-151",Low,B737
+MOD0034,Integration of ads-b out system including weather radar integration,Avionics,"CS 25.1431, AMC 20-115",Low,E170
+MOD0101,Installation of new in-flight entertainment screens,Cabin,"CS 25.812, AMC 25-17",High,A320
+MOD0102,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.853, CS 25.812",Low,B747
+MOD0103,Installation of new in-flight entertainment screens improving passenger comfort and experience,Cabin,"CS 25.783, CS 25.807",Low,A330
+MOD0104,Refurbishment of seat upholstery with flame-retardant materials improving passenger comfort and experience,Cabin,"CS 25.853, CS 25.857",High,B737
+MOD0105,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.783, CS 25.807",Medium,CRJ900
+MOD0106,Refurbishment of seat upholstery with flame-retardant materials with enhanced lighting control systems,Cabin,"CS 25.783, CS 25.807",Low,A330
+MOD0107,Installation of new in-flight entertainment screens with enhanced lighting control systems,Cabin,"CS 25.853, CS 25.812",Low,A350
+MOD0108,Installation of new in-flight entertainment screens including accessibility improvements,Cabin,"CS 25.783, CS 25.807",Medium,B777
+MOD0109,Reconfiguration of cabin seating for premium economy layout improving passenger comfort and experience,Cabin,"CS 25.783, CS 25.807",Low,A321
+MOD0110,Reconfiguration of cabin seating for premium economy layout with enhanced lighting control systems,Cabin,"CS 25.812, AMC 25-17",High,A320
+MOD0111,Reconfiguration of cabin seating for premium economy layout including accessibility improvements,Cabin,"CS 25.853, CS 25.857",Medium,A330
+MOD0112,Refurbishment of seat upholstery with flame-retardant materials including accessibility improvements,Cabin,"CS 25.853, CS 25.812",Low,A321
+MOD0113,Installation of new in-flight entertainment screens for increased seating capacity,Cabin,"CS 25.812, AMC 25-17",High,CRJ900
+MOD0114,Installation of new in-flight entertainment screens with upgraded entertainment systems,Cabin,"CS 25.809, CS 25.812",Medium,B787
+MOD0115,Installation of new in-flight entertainment screens featuring ergonomic design improvements,Cabin,"CS 25.853, CS 25.812",Low,B747
+MOD0116,Refurbishment of seat upholstery with flame-retardant materials for increased seating capacity,Cabin,"CS 25.853, CS 25.812",Low,CRJ700
+MOD0117,Reconfiguration of cabin seating for premium economy layout for increased seating capacity,Cabin,"CS 25.853, CS 25.857",High,B777
+MOD0118,Refurbishment of seat upholstery with flame-retardant materials with upgraded entertainment systems,Cabin,"CS 25.783, CS 25.807",Medium,A321
+MOD0119,Refurbishment of seat upholstery with flame-retardant materials featuring ergonomic design improvements,Cabin,"CS 25.853, CS 25.812",Low,CRJ700
+MOD0120,Installation of new in-flight entertainment screens including noise reduction measures,Cabin,"CS 25.812, AMC 25-17",High,B737
+MOD0121,Reconfiguration of cabin seating for premium economy layout with upgraded entertainment systems,Cabin,"CS 25.853, CS 25.812",Low,B787
+MOD0122,Refurbishment of seat upholstery with flame-retardant materials including noise reduction measures,Cabin,"CS 25.853, CS 25.812",Low,CRJ700
+MOD0123,Reconfiguration of cabin seating for premium economy layout featuring ergonomic design improvements,Cabin,"CS 25.853, CS 25.812",Low,A330
+MOD0125,Reconfiguration of cabin seating for premium economy layout including noise reduction measures,Cabin,"CS 25.809, CS 25.812",Medium,A321
+MOD0126,Installation of new in-flight entertainment screens with fire-resistant materials,Cabin,"CS 25.812, AMC 25-17",High,A350
+MOD0131,Reconfiguration of cabin seating for premium economy layout with fire-resistant materials,Cabin,"CS 25.853, CS 25.857",High,A350
+MOD0201,Integration of electronic checklist system,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,B747
+MOD0202,Replacement of analog altimeter with digital model,Avionics,"CS 25.1309, AMC 20-151",Low,A320
+MOD0203,Replacement of analog altimeter with digital model with improved signal processing capabilities,Avionics,"CS 25.1309, AMC 20-130",Medium,A321
+MOD0204,Replacement of analog altimeter with digital model for enhanced navigation accuracy,Avionics,"CS 25.1431, AMC 20-115",Medium,CRJ700
+MOD0205,Cockpit control panel redesign for ergonomic improvement,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,B737
+MOD0206,Replacement of analog altimeter with digital model including electromagnetic interference shielding,Avionics,"CS 25.1431, AMC 20-22",High,A320
+MOD0207,Integration of electronic checklist system with improved signal processing capabilities,Avionics,"CS 25.1431, AMC 20-22",Medium,A320
+MOD0208,Replacement of analog altimeter with digital model with software version {version} compliance,Avionics,"CS 25.1431, AMC 20-115",Medium,B757
+MOD0209,Cockpit control panel redesign for ergonomic improvement with improved signal processing capabilities,Avionics,"CS 25.1309, AMC 20-151",Low,A320
+MOD0210,Cockpit control panel redesign for ergonomic improvement for enhanced navigation accuracy,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,A321
+MOD0211,Integration of electronic checklist system for enhanced navigation accuracy,Avionics,"CS 25.1431, AMC 20-115",Low,B737
+MOD0212,Cockpit control panel redesign for ergonomic improvement including electromagnetic interference shielding,Avionics,"CS 25.1431, AMC 20-22",High,B767
+MOD0213,Cockpit control panel redesign for ergonomic improvement with software version {version} compliance,Avionics,"CS 25.1309, AMC 20-130",Medium,B747
+MOD0214,Cockpit control panel redesign for ergonomic improvement featuring redundant backup systems,Avionics,"CS 25.1309, AMC 20-151",Low,A321
+MOD0215,Cockpit control panel redesign for ergonomic improvement with enhanced cybersecurity protocols,Avionics,"CS 25.1431, AMC 20-22",High,B767
+MOD0216,Replacement of analog altimeter with digital model featuring redundant backup systems,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,A330
+MOD0217,Replacement of analog altimeter with digital model with enhanced cybersecurity protocols,Avionics,"CS 25.1431, AMC 20-22",High,A340
+MOD0218,Cockpit control panel redesign for ergonomic improvement for oceanic flight operations,Avionics,"CS 25.1431, AMC 20-22",Medium,B777
+MOD0219,Replacement of analog altimeter with digital model for oceanic flight operations,Avionics,"CS 25.1431, AMC 20-115",Medium,B747
+MOD0220,Cockpit control panel redesign for ergonomic improvement including weather radar integration,Avionics,"CS 25.1309, AMC 20-151",Low,B787
+MOD0221,Integration of electronic checklist system including electromagnetic interference shielding,Avionics,"CS 25.1431, AMC 20-22",Medium,B747
+MOD0224,Replacement of analog altimeter with digital model including weather radar integration,Avionics,"CS 25.1309, AMC 20-130",Medium,A340
+MOD0228,Integration of electronic checklist system with software version {version} compliance,Avionics,"CS 25.1431, AMC 20-22",High,A350
+MOD0230,Integration of electronic checklist system featuring redundant backup systems,Avionics,"CS 25.1431, AMC 20-22",High,B747
+MOD0232,Integration of electronic checklist system with enhanced cybersecurity protocols,Avionics,"CS 25.1431, AMC 20-22",Medium,B737
+MOD0236,Integration of electronic checklist system for oceanic flight operations,Avionics,"CS 25.1309, AMC 20-151",Low,B767
+MOD0239,Integration of electronic checklist system including weather radar integration,Avionics,"CS 25.1431, AMC 20-115",Low,B747
+MOD0301,Addition of usb charging ports at passenger seats,Systems,"CS 25.965, CS 25.1309",Medium,A320
+MOD0302,Addition of usb charging ports at passenger seats with improved efficiency and reliability,Systems,"CS 25.1441, CS 25.1309",Low,B737
+MOD0303,Upgrade of cabin lighting system to low-power leds,Systems,"CS 25.1309, AMC 25-12",Low,B737
+MOD0304,Replacement of power distribution panel in avionics bay,Systems,"CS 25.1309, AMC 25-12",Low,B747
+MOD0305,Addition of usb charging ports at passenger seats including backup system integration,Systems,"CS 25.1441, CS 25.1309",Low,B767
+MOD0306,Replacement of power distribution panel in avionics bay with improved efficiency and reliability,Systems,"CS 25.1309, AMC 25-12",Low,E190
+MOD0307,Replacement of power distribution panel in avionics bay including backup system integration,Systems,"CS 25.965, CS 25.1309",Medium,B737
+MOD0308,Addition of usb charging ports at passenger seats for enhanced operational capability,Systems,"CS 25.1441, CS 25.1309",Medium,A330
+MOD0309,Addition of usb charging ports at passenger seats with automated monitoring systems,Systems,"CS 25.1309, CS 25.965, AMC 25-12",High,B777
+MOD0310,Addition of usb charging ports at passenger seats featuring predictive maintenance capability,Systems,"CS 25.1309, AMC 25-12",Low,A330
+MOD0311,Replacement of power distribution panel in avionics bay for enhanced operational capability,Systems,"CS 25.1309, AMC 25-12",Low,A380
+MOD0312,Addition of usb charging ports at passenger seats including environmental control improvements,Systems,"AMC 25-12, AMC 20-130",High,A320
+MOD0313,Upgrade of cabin lighting system to low-power leds with improved efficiency and reliability,Systems,"CS 25.1309, AMC 25-12",Low,A320
+MOD0314,Replacement of power distribution panel in avionics bay with automated monitoring systems,Systems,"AMC 25-12, AMC 20-130",Medium,E170
+MOD0315,Upgrade of cabin lighting system to low-power leds including backup system integration,Systems,"CS 25.965, CS 25.1309",Medium,B787
+MOD0316,Addition of usb charging ports at passenger seats with energy-efficient components,Systems,"CS 25.1309, CS 25.965, AMC 25-12",High,B767
+MOD0319,Replacement of power distribution panel in avionics bay featuring predictive maintenance capability,Systems,"CS 25.965, CS 25.1309",Medium,A321
+MOD0321,Upgrade of cabin lighting system to low-power leds for enhanced operational capability,Systems,"CS 25.965, CS 25.1309",Medium,B737
+MOD0323,Upgrade of cabin lighting system to low-power leds with automated monitoring systems,Systems,"CS 25.1309, CS 25.965, AMC 25-12",High,B757
+MOD0324,Upgrade of cabin lighting system to low-power leds featuring predictive maintenance capability,Systems,"CS 25.1441, CS 25.1309",Medium,A330
+MOD0326,Upgrade of cabin lighting system to low-power leds including environmental control improvements,Systems,"CS 25.1441, CS 25.1309",Low,B777
+MOD0327,Upgrade of cabin lighting system to low-power leds with energy-efficient components,Systems,"AMC 25-12, AMC 20-130",High,B737
+MOD0328,Replacement of power distribution panel in avionics bay including environmental control improvements,Systems,"CS 25.1309, CS 25.965, AMC 25-12",High,B737
+MOD0331,Replacement of power distribution panel in avionics bay with energy-efficient components,Systems,"AMC 25-12, AMC 20-130",High,A340
+MOD0401,Deployment of updated flight management software,Avionics,"CS 25.1309, AMC 20-151",Low,A320
+MOD0402,Autopilot software enhancement for smoother descent profiles,Avionics,"CS 25.1309, AMC 20-151",Low,CRJ700
+MOD0403,Deployment of updated flight management software with improved signal processing capabilities,Avionics,"CS 25.1431, AMC 20-115",Medium,B737
+MOD0404,Autopilot software enhancement for smoother descent profiles with improved signal processing capabilities,Avionics,"CS 25.1309, AMC 20-151",Low,B787
+MOD0405,Implementation of new load-shedding logic in power controller,Avionics,"CS 25.1431, AMC 20-115",Low,A330
+MOD0406,Autopilot software enhancement for smoother descent profiles for enhanced navigation accuracy,Avionics,"CS 25.1309, AMC 20-130",Medium,CRJ700
+MOD0407,Autopilot software enhancement for smoother descent profiles including electromagnetic interference shielding,Avionics,"CS 25.1431, AMC 20-22",Medium,A350
+MOD0408,Implementation of new load-shedding logic in power controller with improved signal processing capabilities,Avionics,"CS 25.1309, AMC 20-151",Low,A320
+MOD0409,Autopilot software enhancement for smoother descent profiles with software version v5.7 compliance,Avionics,"CS 25.1431, AMC 20-22",High,CRJ900
+MOD0410,Deployment of updated flight management software for enhanced navigation accuracy,Avionics,"CS 25.1431, AMC 20-22",Medium,A320
+MOD0411,Deployment of updated flight management software including electromagnetic interference shielding,Avionics,"CS 25.1309, AMC 20-151",Low,A330
+MOD0412,Deployment of updated flight management software with software version v5.1 compliance,Avionics,"CS 25.1431, AMC 20-22",High,E170
+MOD0413,Implementation of new load-shedding logic in power controller for enhanced navigation accuracy,Avionics,"CS 25.1309, AMC 20-130",Medium,E170
+MOD0414,Deployment of updated flight management software featuring redundant backup systems,Avionics,"CS 25.1309, AMC 20-130",Medium,B737
+MOD0415,Deployment of updated flight management software with enhanced cybersecurity protocols,Avionics,"CS 25.1431, AMC 20-22",Medium,B747
+MOD0416,Deployment of updated flight management software for oceanic flight operations,Avionics,"CS 25.1431, AMC 20-115",Low,A380
+MOD0417,Deployment of updated flight management software including weather radar integration,Avionics,"CS 25.1431, AMC 20-115",Medium,A330
+MOD0419,Implementation of new load-shedding logic in power controller including electromagnetic interference shielding,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,B757
+MOD0420,Autopilot software enhancement for smoother descent profiles featuring redundant backup systems,Avionics,"CS 25.1431, AMC 20-22",High,B777
+MOD0421,Implementation of new load-shedding logic in power controller with software version {version} compliance,Avionics,"CS 25.1431, AMC 20-22",High,B777
+MOD0422,Autopilot software enhancement for smoother descent profiles with enhanced cybersecurity protocols,Avionics,"CS 25.1309, AMC 20-130",Medium,B777
+MOD0423,Autopilot software enhancement for smoother descent profiles for oceanic flight operations,Avionics,"CS 25.1431, AMC 20-22",Medium,A320
+MOD0425,Implementation of new load-shedding logic in power controller featuring redundant backup systems,Avionics,"CS 25.1431, AMC 20-115",Low,A320
+MOD0427,Implementation of new load-shedding logic in power controller with enhanced cybersecurity protocols,Avionics,"CS 25.1431, AMC 20-115",Low,A380
+MOD0429,Implementation of new load-shedding logic in power controller for oceanic flight operations,Avionics,"CS 25.1309, AMC 20-151",Low,A340
+MOD0430,Autopilot software enhancement for smoother descent profiles including weather radar integration,Avionics,"CS 25.1431, AMC 20-22",High,A320
+MOD0432,Implementation of new load-shedding logic in power controller including weather radar integration,Avionics,"CS 25.1431, AMC 20-22",Medium,B777
+MOD0501,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.807, CS 25.809",Low,B767
+MOD0502,Upgrade of oxygen masks with automated drop feature enhancing emergency response capabilities,Safety,"CS 25.812, AMC 25-17",Medium,B737
+MOD0503,New escape path floor lighting system,Safety,"CS 25.812, AMC 25-17",Medium,A330
+MOD0504,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.807, CS 25.809",Low,B787
+MOD0505,Upgrade of oxygen masks with automated drop feature with improved evacuation procedures,Safety,"CS 25.853, CS 25.807",Medium,B767
+MOD0506,New escape path floor lighting system enhancing emergency response capabilities,Safety,"CS 25.812, AMC 25-17",Medium,A321
+MOD0507,Installation of advanced fire detection system in cargo bay enhancing emergency response capabilities,Safety,"CS 25.807, CS 25.809",Low,CRJ900
+MOD0508,Installation of advanced fire detection system in cargo bay with improved evacuation procedures,Safety,"AMC 25-17, CS 25.812, CS 25.807",High,B787
+MOD0509,New escape path floor lighting system with improved evacuation procedures,Safety,"AMC 25-17, CS 25.812, CS 25.807",High,E170
+MOD0510,New escape path floor lighting system including fire suppression enhancements,Safety,"AMC 25-17, CS 25.812, CS 25.807",High,B767
+MOD0511,Installation of advanced fire detection system in cargo bay including fire suppression enhancements,Safety,"CS 25.809, CS 25.853",High,B737
+MOD0512,New escape path floor lighting system for rapid emergency deployment,Safety,"AMC 25-17, CS 25.812, CS 25.807",High,A350
+MOD0513,Upgrade of oxygen masks with automated drop feature including fire suppression enhancements,Safety,"CS 25.853, CS 25.807",Medium,CRJ900
+MOD0514,Upgrade of oxygen masks with automated drop feature for rapid emergency deployment,Safety,"CS 25.807, CS 25.809",Low,CRJ700
+MOD0515,Installation of advanced fire detection system in cargo bay for rapid emergency deployment,Safety,"AMC 25-17, CS 25.812, CS 25.807",High,A320
+MOD0516,Upgrade of oxygen masks with automated drop feature with enhanced visibility features,Safety,"CS 25.853, CS 25.807",Medium,A320
+MOD0517,New escape path floor lighting system with enhanced visibility features,Safety,"CS 25.812, AMC 25-17",Low,A350
+MOD0518,Installation of advanced fire detection system in cargo bay with enhanced visibility features,Safety,"CS 25.812, AMC 25-17",Low,B787
+MOD0519,New escape path floor lighting system including crew training requirements,Safety,"CS 25.809, CS 25.853",Medium,E190
+MOD0520,Installation of advanced fire detection system in cargo bay including crew training requirements,Safety,"CS 25.812, AMC 25-17",Low,A321
+MOD0521,Upgrade of oxygen masks with automated drop feature including crew training requirements,Safety,"CS 25.812, AMC 25-17",Low,B737
+MOD0522,Installation of advanced fire detection system in cargo bay with redundant safety systems,Safety,"CS 25.809, CS 25.853",High,A350
+MOD0523,New escape path floor lighting system with redundant safety systems,Safety,"CS 25.812, AMC 25-17",Medium,E170
+MOD0524,New escape path floor lighting system for compliance with latest safety standards,Safety,"CS 25.809, CS 25.853",Medium,B787
+MOD0525,Installation of advanced fire detection system in cargo bay for compliance with latest safety standards,Safety,"CS 25.809, CS 25.853",High,B787
+MOD0527,Upgrade of oxygen masks with automated drop feature with redundant safety systems,Safety,"CS 25.807, CS 25.809",Low,A350
+MOD0536,Upgrade of oxygen masks with automated drop feature for compliance with latest safety standards,Safety,"CS 25.853, CS 25.807",Medium,E170
+MOD0601,Replacement of inertial reference unit with new ins,Avionics,"CS 25.1309, AMC 20-151",Low,A321
+MOD0602,Update of gnss antenna configuration,Avionics,"CS 25.1431, AMC 20-115",Medium,A330
+MOD0603,Update of gnss antenna configuration with improved signal processing capabilities,Avionics,"CS 25.1309, AMC 20-130",Medium,A321
+MOD0604,Replacement of inertial reference unit with new ins with improved signal processing capabilities,Avionics,"CS 25.1431, AMC 20-115",Low,A320
+MOD0605,Update of gnss antenna configuration for enhanced navigation accuracy,Avionics,"CS 25.1309, AMC 20-130",Medium,A320
+MOD0606,Integration of satellite-based navigation for rnp approaches,Avionics,"CS 25.1309, AMC 20-151",Low,A380
+MOD0607,Update of gnss antenna configuration including electromagnetic interference shielding,Avionics,"CS 25.1431, AMC 20-22",Medium,A321
+MOD0608,Update of gnss antenna configuration with software version {version} compliance,Avionics,"CS 25.1431, AMC 20-115",Low,A340
+MOD0609,Update of gnss antenna configuration featuring redundant backup systems,Avionics,"CS 25.1431, AMC 20-22",High,B737
+MOD0610,Replacement of inertial reference unit with new ins for enhanced navigation accuracy,Avionics,"CS 25.1431, AMC 20-115",Low,B767
+MOD0611,Integration of satellite-based navigation for rnp approaches with improved signal processing capabilities,Avionics,"CS 25.1431, AMC 20-115",Low,A320
+MOD0612,Integration of satellite-based navigation for rnp approaches for enhanced navigation accuracy,Avionics,"CS 25.1309, AMC 20-151",Low,B777
+MOD0613,Replacement of inertial reference unit with new ins including electromagnetic interference shielding,Avionics,"CS 25.1431, AMC 20-115",Low,B747
+MOD0614,Integration of satellite-based navigation for rnp approaches including electromagnetic interference shielding,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,A320
+MOD0615,Update of gnss antenna configuration with enhanced cybersecurity protocols,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,CRJ700
+MOD0616,Integration of satellite-based navigation for rnp approaches with software version {version} compliance,Avionics,"CS 25.1431, AMC 20-115",Low,CRJ900
+MOD0617,Replacement of inertial reference unit with new ins with software version {version} compliance,Avionics,"CS 25.1431, AMC 20-22",High,A320
+MOD0618,Replacement of inertial reference unit with new ins featuring redundant backup systems,Avionics,"CS 25.1431, AMC 20-115",Low,A330
+MOD0619,Integration of satellite-based navigation for rnp approaches featuring redundant backup systems,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,B777
+MOD0620,Integration of satellite-based navigation for rnp approaches with enhanced cybersecurity protocols,Avionics,"CS 25.1309, AMC 20-151, AMC 20-115",High,B777
+MOD0621,Integration of satellite-based navigation for rnp approaches for oceanic flight operations,Avionics,"CS 25.1309, AMC 20-151",Low,A321
+MOD0622,Integration of satellite-based navigation for rnp approaches including weather radar integration,Avionics,"CS 25.1309, AMC 20-130",Medium,A321
+MOD0623,Update of gnss antenna configuration for oceanic flight operations,Avionics,"CS 25.1309, AMC 20-151",Low,A350
+MOD0624,Replacement of inertial reference unit with new ins with enhanced cybersecurity protocols,Avionics,"CS 25.1431, AMC 20-22",High,B737
+MOD0625,Replacement of inertial reference unit with new ins for oceanic flight operations,Avionics,"CS 25.1309, AMC 20-130",Medium,B737
+MOD0627,Update of gnss antenna configuration including weather radar integration,Avionics,"CS 25.1309, AMC 20-151",Low,A380
+MOD0631,Replacement of inertial reference unit with new ins including weather radar integration,Avionics,"CS 25.1309, AMC 20-130",Medium,B767
+MOD0701,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.561, AMC 20-22",Medium,B737
+MOD0702,Installation of additional structural support frames,Structure,"CS 25.561, AMC 20-22",High,A320
+MOD0703,Installation of additional structural support frames requiring stress analysis and testing,Structure,"CS 25.561, AMC 20-22",High,A340
+MOD0704,Installation of additional structural support frames with reinforced mounting brackets,Structure,"CS 25.321, AMC 20-22",Medium,A321
+MOD0705,Installation of additional structural support frames including fatigue life assessment,Structure,"CS 25.321, AMC 20-22",Low,A320
+MOD0706,Strengthening of rear bulkhead,Structure,"CS 25.561, CS 25.629",Low,E190
+MOD0707,Strengthening of rear bulkhead requiring stress analysis and testing,Structure,"CS 25.561, AMC 20-22",High,A330
+MOD0708,Installation of additional structural support frames for increased load capacity,Structure,"CS 25.561, CS 25.629",Low,B787
+MOD0709,Winglet retrofit for improved fuel efficiency requiring stress analysis and testing,Structure,"CS 25.321, CS 25.561, CS 25.629",High,A330
+MOD0710,Strengthening of rear bulkhead with reinforced mounting brackets,Structure,"CS 25.321, AMC 20-22",Low,B757
+MOD0711,Winglet retrofit for improved fuel efficiency with reinforced mounting brackets,Structure,"CS 25.561, AMC 20-22",Medium,B777
+MOD0712,Strengthening of rear bulkhead including fatigue life assessment,Structure,"CS 25.561, AMC 20-22",Medium,B737
+MOD0713,Winglet retrofit for improved fuel efficiency including fatigue life assessment,Structure,"CS 25.629, CS 25.321",Medium,B737
+MOD0714,Strengthening of rear bulkhead for increased load capacity,Structure,"CS 25.321, CS 25.561, CS 25.629",High,A350
+MOD0715,Installation of additional structural support frames with corrosion protection treatment,Structure,"CS 25.561, AMC 20-22",Medium,A340
+MOD0716,Strengthening of rear bulkhead with corrosion protection treatment,Structure,"CS 25.321, AMC 20-22",Medium,CRJ900
+MOD0717,Winglet retrofit for improved fuel efficiency for increased load capacity,Structure,"CS 25.321, CS 25.561, CS 25.629",High,B787
+MOD0718,Installation of additional structural support frames affecting primary structural elements,Structure,"CS 25.321, CS 25.561, CS 25.629",High,E170
+MOD0719,Strengthening of rear bulkhead affecting primary structural elements,Structure,"CS 25.321, CS 25.561, CS 25.629",High,A320
+MOD0720,Installation of additional structural support frames requiring structural repair schemes,Structure,"CS 25.629, CS 25.321",Medium,B767
+MOD0721,Winglet retrofit for improved fuel efficiency with corrosion protection treatment,Structure,"CS 25.561, AMC 20-22",High,CRJ900
+MOD0722,Strengthening of rear bulkhead requiring structural repair schemes,Structure,"CS 25.561, AMC 20-22",High,A321
+MOD0723,Strengthening of rear bulkhead with composite material integration,Structure,"CS 25.561, CS 25.629",Low,A320
+MOD0724,Installation of additional structural support frames with composite material integration,Structure,"CS 25.321, CS 25.561, CS 25.629",High,B777
+MOD0726,Winglet retrofit for improved fuel efficiency affecting primary structural elements,Structure,"CS 25.561, CS 25.629",Low,B787
+MOD0727,Winglet retrofit for improved fuel efficiency requiring structural repair schemes,Structure,"CS 25.561, AMC 20-22",High,A321
+MOD0730,Winglet retrofit for improved fuel efficiency with composite material integration,Structure,"CS 25.629, CS 25.321",Medium,A321
+MOD0801,Upgrade of nose gear actuator,Systems,"CS 25.1309, CS 25.965, AMC 25-12",High,B767
+MOD0802,Replacement of hydraulic reservoir seals,Systems,"CS 25.1309, AMC 25-12",Low,A321
+MOD0803,Replacement of hydraulic reservoir seals with improved efficiency and reliability,Systems,"CS 25.1441, CS 25.1309",Low,B737
+MOD0804,Replacement of hydraulic reservoir seals including backup system integration,Systems,"CS 25.1441, CS 25.1309",Medium,B737
+MOD0805,Upgrade of nose gear actuator with improved efficiency and reliability,Systems,"AMC 25-12, AMC 20-130",High,A350
+MOD0806,Upgrade of nose gear actuator including backup system integration,Systems,"AMC 25-12, AMC 20-130",Medium,B767
+MOD0807,Upgrade of nose gear actuator for enhanced operational capability,Systems,"AMC 25-12, AMC 20-130",High,CRJ900
+MOD0808,Replacement of hydraulic reservoir seals for enhanced operational capability,Systems,"CS 25.1441, CS 25.1309",Low,CRJ900
+MOD0809,Upgrade of nose gear actuator with automated monitoring systems,Systems,"CS 25.1441, CS 25.1309",Low,A380
+MOD0810,Upgrade of nose gear actuator featuring predictive maintenance capability,Systems,"AMC 25-12, AMC 20-130",High,A320
+MOD0811,Replacement of hydraulic reservoir seals with automated monitoring systems,Systems,"CS 25.1441, CS 25.1309",Medium,E190
+MOD0812,Replacement of hydraulic reservoir seals featuring predictive maintenance capability,Systems,"AMC 25-12, AMC 20-130",High,B787
+MOD0813,Replacement of hydraulic reservoir seals including environmental control improvements,Systems,"CS 25.1441, CS 25.1309",Low,A320
+MOD0814,Replacement of hydraulic reservoir seals with energy-efficient components,Systems,"CS 25.1309, CS 25.965, AMC 25-12",High,CRJ900
+MOD0815,Replacement of hydraulic reservoir seals for extended operational range,Systems,"CS 25.1309, CS 25.965, AMC 25-12",High,CRJ700
+MOD0816,Modification of flap control hydraulic lines,Systems,"CS 25.1441, CS 25.1309",Low,B737
+MOD0817,Modification of flap control hydraulic lines with improved efficiency and reliability,Systems,"CS 25.965, CS 25.1309",Medium,B737
+MOD0819,Modification of flap control hydraulic lines including backup system integration,Systems,"AMC 25-12, AMC 20-130",Medium,A320
+MOD0820,Modification of flap control hydraulic lines for enhanced operational capability,Systems,"AMC 25-12, AMC 20-130",High,A340
+MOD0821,Upgrade of nose gear actuator including environmental control improvements,Systems,"CS 25.1309, AMC 25-12",Low,B777
+MOD0822,Modification of flap control hydraulic lines with automated monitoring systems,Systems,"CS 25.1309, AMC 25-12",Low,A320
+MOD0824,Upgrade of nose gear actuator with energy-efficient components,Systems,"CS 25.1441, CS 25.1309",Medium,A350
+MOD0826,Modification of flap control hydraulic lines featuring predictive maintenance capability,Systems,"CS 25.1309, AMC 25-12",Low,CRJ900
+MOD0827,Modification of flap control hydraulic lines including environmental control improvements,Systems,"AMC 25-12, AMC 20-130",High,A340
+MOD0828,Upgrade of nose gear actuator for extended operational range,Systems,"AMC 25-12, AMC 20-130",Medium,A340
+MOD0831,Modification of flap control hydraulic lines with energy-efficient components,Systems,"CS 25.965, CS 25.1309",Medium,A321
+MOD0833,Modification of flap control hydraulic lines for extended operational range,Systems,"CS 25.1309, CS 25.965, AMC 25-12",High,A321
+MOD0901,Installation of new engine vibration monitoring system,Propulsion,"CS 25.903, AMC 20-149",Medium,A321
+MOD0902,Modification of nacelle fairing design,Propulsion,"CS 25.933, CS 25.901",Low,A320
+MOD0903,Replacement of engine mount bolts,Propulsion,"CS 25.933, CS 25.901",Low,A321
+MOD0904,Modification of nacelle fairing design for improved fuel efficiency,Propulsion,"CS 25.901, CS 25.965",Medium,B737
+MOD0905,Installation of new engine vibration monitoring system for improved fuel efficiency,Propulsion,"CS 25.901, CS 25.965",High,A350
+MOD0906,Replacement of engine mount bolts for improved fuel efficiency,Propulsion,"CS 25.933, CS 25.901",Medium,CRJ700
+MOD0907,Replacement of engine mount bolts with enhanced thrust-to-weight ratio,Propulsion,"CS 25.901, CS 25.903",Low,B787
+MOD0908,Modification of nacelle fairing design with enhanced thrust-to-weight ratio,Propulsion,"CS 25.901, CS 25.965",High,A340
+MOD0909,Installation of new engine vibration monitoring system with enhanced thrust-to-weight ratio,Propulsion,"CS 25.901, CS 25.965",High,A330
+MOD0910,Installation of new engine vibration monitoring system including vibration reduction measures,Propulsion,"CS 25.901, CS 25.965",Medium,A350
+MOD0911,Installation of new engine vibration monitoring system for extended engine life,Propulsion,"CS 25.933, CS 25.901",Low,B737
+MOD0912,Modification of nacelle fairing design including vibration reduction measures,Propulsion,"CS 25.901, CS 25.903",Low,A330
+MOD0913,Modification of nacelle fairing design for extended engine life,Propulsion,"CS 25.901, CS 25.965",High,B747
+MOD0914,Replacement of engine mount bolts including vibration reduction measures,Propulsion,"AMC 20-149, CS 25.901, CS 25.903",High,A350
+MOD0915,Modification of nacelle fairing design with advanced materials and coatings,Propulsion,"CS 25.901, CS 25.965",Medium,B737
+MOD0916,Replacement of engine mount bolts for extended engine life,Propulsion,"CS 25.933, CS 25.901",Medium,A350
+MOD0917,Modification of nacelle fairing design including noise reduction features,Propulsion,"AMC 20-149, CS 25.901, CS 25.903",High,A330
+MOD0918,Replacement of engine mount bolts with advanced materials and coatings,Propulsion,"CS 25.901, CS 25.965",High,E170
+MOD0919,Modification of nacelle fairing design for improved operational flexibility,Propulsion,"CS 25.901, CS 25.965",High,B777
+MOD0920,Installation of new engine vibration monitoring system with advanced materials and coatings,Propulsion,"CS 25.901, CS 25.965",High,A321
+MOD0923,Modification of nacelle fairing design with enhanced maintenance intervals,Propulsion,"CS 25.901, CS 25.903",Low,CRJ700
+MOD0925,Replacement of engine mount bolts including noise reduction features,Propulsion,"CS 25.901, CS 25.965",Medium,A350
+MOD0931,Replacement of engine mount bolts for improved operational flexibility,Propulsion,"CS 25.901, CS 25.903",Low,A321
+MOD0934,Replacement of engine mount bolts with enhanced maintenance intervals,Propulsion,"CS 25.901, CS 25.903",Low,B737

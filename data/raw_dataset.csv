@@ -1,0 +1,1001 @@
+mod_id,mod_description,mod_type,regulations,loi
+MOD0001,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0002,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0003,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0004,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0005,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0006,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0007,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0008,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0009,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0010,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0011,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0012,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0013,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0014,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0015,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0016,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0017,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0018,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0019,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0020,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0021,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0022,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0023,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0024,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0025,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0026,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0027,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0028,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0029,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0030,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0031,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0032,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0033,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0034,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0035,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0036,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0037,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0038,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0039,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0040,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0041,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0042,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0043,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0044,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0045,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0046,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0047,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0048,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0049,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0050,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0051,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0052,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0053,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0054,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0055,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0056,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0057,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0058,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0059,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0060,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0061,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0062,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0063,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0064,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0065,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0066,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0067,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0068,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0069,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0070,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0071,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0072,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0073,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0074,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0075,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0076,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0077,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0078,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0079,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0080,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0081,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0082,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0083,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0084,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0085,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0086,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0087,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0088,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0089,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0090,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0091,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0092,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0093,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",High
+MOD0094,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0095,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0096,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0097,Installation of dual VHF antennas on fuselage,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0098,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0099,Upgrade of navigation database software,Avionics,"CS 25.1309, AMC 20-22",Medium
+MOD0100,Integration of ADS-B Out system,Avionics,"CS 25.1309, AMC 20-22",Low
+MOD0101,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0102,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0103,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Low
+MOD0104,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0105,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0106,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0107,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Low
+MOD0108,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0109,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Low
+MOD0110,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",High
+MOD0111,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0112,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0113,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0114,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0115,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Low
+MOD0116,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0117,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",High
+MOD0118,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0119,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0120,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0121,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Low
+MOD0122,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0123,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Low
+MOD0124,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0125,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0126,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0127,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Low
+MOD0128,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0129,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0130,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0131,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",High
+MOD0132,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0133,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",High
+MOD0134,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Low
+MOD0135,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Low
+MOD0136,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0137,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0138,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0139,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0140,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0141,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0142,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0143,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0144,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0145,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0146,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0147,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0148,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Low
+MOD0149,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0150,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0151,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0152,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0153,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0154,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0155,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0156,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0157,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0158,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0159,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0160,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0161,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Low
+MOD0162,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0163,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0164,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0165,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0166,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0167,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0168,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0169,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Low
+MOD0170,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0171,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0172,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0173,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0174,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0175,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Low
+MOD0176,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0177,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",High
+MOD0178,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0179,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0180,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0181,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Low
+MOD0182,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0183,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",High
+MOD0184,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0185,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0186,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Low
+MOD0187,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Low
+MOD0188,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0189,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0190,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0191,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0192,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",High
+MOD0193,Installation of new in-flight entertainment screens,Cabin,"CS 25.785, CS 25.853",Low
+MOD0194,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Low
+MOD0195,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0196,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0197,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",Medium
+MOD0198,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",Low
+MOD0199,Refurbishment of seat upholstery with flame-retardant materials,Cabin,"CS 25.785, CS 25.853",High
+MOD0200,Reconfiguration of cabin seating for premium economy layout,Cabin,"CS 25.785, CS 25.853",High
+MOD0201,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0202,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0203,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0204,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0205,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0206,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0207,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0208,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0209,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0210,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0211,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0212,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0213,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0214,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0215,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0216,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0217,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0218,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0219,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0220,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0221,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0222,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0223,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0224,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0225,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0226,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0227,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0228,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0229,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0230,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0231,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0232,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0233,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0234,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0235,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0236,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0237,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0238,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0239,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0240,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0241,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0242,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0243,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0244,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0245,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0246,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0247,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0248,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0249,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0250,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0251,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0252,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0253,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0254,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0255,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0256,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0257,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0258,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0259,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0260,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0261,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0262,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0263,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0264,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0265,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0266,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0267,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0268,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0269,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0270,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0271,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0272,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0273,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0274,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0275,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0276,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0277,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0278,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0279,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0280,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0281,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0282,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0283,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0284,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0285,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0286,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0287,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0288,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0289,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0290,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0291,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0292,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0293,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0294,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0295,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0296,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0297,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0298,Integration of electronic checklist system,Flight Deck,"CS 25.1301, CS 25.1322",High
+MOD0299,Cockpit control panel redesign for ergonomic improvement,Flight Deck,"CS 25.1301, CS 25.1322",Low
+MOD0300,Replacement of analog altimeter with digital model,Flight Deck,"CS 25.1301, CS 25.1322",Medium
+MOD0301,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0302,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0303,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0304,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0305,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0306,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0307,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0308,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0309,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0310,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0311,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0312,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0313,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0314,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0315,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0316,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0317,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0318,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0319,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0320,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0321,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0322,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0323,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0324,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0325,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0326,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0327,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0328,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0329,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0330,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0331,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0332,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0333,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0334,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0335,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0336,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0337,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0338,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0339,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0340,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0341,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0342,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0343,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0344,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0345,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0346,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0347,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0348,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0349,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0350,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0351,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0352,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0353,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0354,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0355,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0356,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0357,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0358,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0359,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0360,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0361,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0362,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0363,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0364,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0365,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0366,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0367,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0368,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0369,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0370,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0371,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0372,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0373,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0374,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0375,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0376,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0377,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0378,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0379,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0380,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0381,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0382,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0383,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0384,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0385,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0386,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0387,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0388,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0389,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0390,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0391,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0392,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0393,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0394,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0395,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Low
+MOD0396,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0397,Replacement of power distribution panel in avionics bay,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0398,Upgrade of cabin lighting system to low-power LEDs,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0399,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",High
+MOD0400,Addition of USB charging ports at passenger seats,Electrical,"CS 25.1353, CS 25.1309",Medium
+MOD0401,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0402,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0403,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0404,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0405,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0406,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0407,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0408,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0409,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",High
+MOD0410,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0411,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0412,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0413,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0414,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0415,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0416,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0417,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0418,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0419,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",High
+MOD0420,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",High
+MOD0421,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",High
+MOD0422,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0423,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0424,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0425,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0426,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0427,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0428,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0429,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0430,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",High
+MOD0431,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0432,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0433,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0434,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0435,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",High
+MOD0436,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0437,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",High
+MOD0438,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0439,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0440,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0441,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0442,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",High
+MOD0443,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0444,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",High
+MOD0445,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0446,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0447,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0448,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0449,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0450,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0451,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0452,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0453,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",High
+MOD0454,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0455,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0456,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0457,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0458,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",High
+MOD0459,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0460,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0461,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0462,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0463,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",High
+MOD0464,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",High
+MOD0465,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0466,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0467,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0468,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0469,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0470,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0471,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",High
+MOD0472,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0473,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0474,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0475,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0476,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0477,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0478,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0479,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0480,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0481,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0482,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0483,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",High
+MOD0484,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0485,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",High
+MOD0486,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0487,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0488,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0489,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0490,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0491,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",High
+MOD0492,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0493,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0494,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0495,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0496,Implementation of new load-shedding logic in power controller,Software,"CS 25.1309, AMC 25.1309",Low
+MOD0497,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",High
+MOD0498,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0499,Deployment of updated flight management software,Software,"CS 25.1309, AMC 25.1309",Medium
+MOD0500,Autopilot software enhancement for smoother descent profiles,Software,"CS 25.1309, AMC 25.1309",High
+MOD0501,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0502,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0503,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0504,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0505,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0506,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0507,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0508,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0509,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0510,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0511,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0512,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0513,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0514,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0515,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0516,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0517,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Low
+MOD0518,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0519,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0520,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0521,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0522,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0523,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0524,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0525,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0526,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Low
+MOD0527,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0528,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0529,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0530,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0531,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0532,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0533,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0534,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0535,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0536,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0537,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0538,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0539,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0540,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0541,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0542,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0543,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0544,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0545,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0546,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0547,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0548,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0549,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0550,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0551,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0552,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0553,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",High
+MOD0554,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0555,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0556,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0557,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0558,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0559,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0560,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0561,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0562,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",High
+MOD0563,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0564,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0565,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0566,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0567,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0568,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0569,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Low
+MOD0570,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0571,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0572,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0573,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0574,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0575,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0576,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0577,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0578,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0579,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0580,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0581,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0582,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0583,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0584,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0585,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0586,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0587,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0588,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Medium
+MOD0589,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0590,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0591,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Medium
+MOD0592,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0593,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",Low
+MOD0594,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",Medium
+MOD0595,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0596,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0597,New escape path floor lighting system,Safety,"CS 25.811, CS 25.812",High
+MOD0598,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",Low
+MOD0599,Installation of advanced fire detection system in cargo bay,Safety,"CS 25.811, CS 25.812",High
+MOD0600,Upgrade of oxygen masks with automated drop feature,Safety,"CS 25.811, CS 25.812",High
+MOD0601,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0602,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0603,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0604,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0605,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0606,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0607,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0608,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0609,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0610,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0611,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0612,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0613,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0614,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0615,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0616,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0617,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0618,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0619,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0620,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0621,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0622,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0623,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0624,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0625,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0626,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0627,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0628,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0629,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0630,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0631,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0632,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0633,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0634,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0635,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0636,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0637,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0638,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0639,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0640,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0641,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0642,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0643,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0644,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0645,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0646,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0647,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0648,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0649,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0650,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0651,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0652,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0653,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0654,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0655,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0656,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0657,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0658,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0659,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0660,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0661,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0662,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0663,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0664,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0665,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0666,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0667,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0668,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0669,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0670,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0671,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0672,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0673,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0674,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0675,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0676,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0677,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0678,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0679,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0680,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0681,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0682,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0683,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0684,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0685,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0686,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0687,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0688,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0689,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0690,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0691,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0692,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0693,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0694,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0695,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0696,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0697,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0698,Replacement of inertial reference unit with new INS,Navigation,"CS 25.1329, CS 25.1309",High
+MOD0699,Integration of satellite-based navigation for RNP approaches,Navigation,"CS 25.1329, CS 25.1309",Low
+MOD0700,Update of GNSS antenna configuration,Navigation,"CS 25.1329, CS 25.1309",Medium
+MOD0701,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0702,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0703,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0704,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0705,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0706,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Low
+MOD0707,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0708,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0709,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0710,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Low
+MOD0711,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0712,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0713,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0714,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0715,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0716,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0717,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0718,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0719,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0720,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0721,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0722,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0723,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Low
+MOD0724,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0725,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0726,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Low
+MOD0727,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0728,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0729,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0730,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0731,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0732,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0733,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0734,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0735,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0736,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0737,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0738,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0739,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0740,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Low
+MOD0741,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0742,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0743,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0744,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0745,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0746,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0747,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0748,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0749,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0750,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0751,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0752,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0753,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0754,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0755,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0756,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0757,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0758,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0759,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0760,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0761,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Low
+MOD0762,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0763,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Low
+MOD0764,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0765,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0766,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0767,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0768,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0769,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0770,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0771,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0772,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0773,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0774,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0775,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0776,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Low
+MOD0777,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0778,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Low
+MOD0779,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0780,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0781,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0782,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0783,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0784,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0785,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0786,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Low
+MOD0787,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Low
+MOD0788,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Low
+MOD0789,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Medium
+MOD0790,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Low
+MOD0791,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",High
+MOD0792,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",High
+MOD0793,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0794,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Low
+MOD0795,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Medium
+MOD0796,Winglet retrofit for improved fuel efficiency,Structure,"CS 25.301, CS 25.305",Low
+MOD0797,Strengthening of rear bulkhead,Structure,"CS 25.301, CS 25.305",Low
+MOD0798,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0799,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",High
+MOD0800,Installation of additional structural support frames,Structure,"CS 25.301, CS 25.305",Medium
+MOD0801,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0802,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0803,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0804,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0805,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0806,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0807,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0808,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0809,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0810,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0811,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0812,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0813,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0814,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0815,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0816,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0817,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0818,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0819,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0820,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0821,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0822,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0823,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0824,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0825,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0826,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0827,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0828,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0829,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0830,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0831,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0832,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0833,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0834,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0835,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0836,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0837,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0838,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0839,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0840,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0841,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0842,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0843,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0844,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0845,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0846,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0847,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0848,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0849,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0850,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0851,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0852,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0853,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0854,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0855,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0856,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0857,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0858,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0859,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0860,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0861,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0862,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0863,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0864,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0865,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0866,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0867,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0868,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0869,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0870,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0871,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0872,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0873,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0874,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0875,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0876,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0877,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0878,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0879,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0880,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0881,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0882,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0883,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0884,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0885,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0886,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0887,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0888,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0889,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0890,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0891,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0892,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0893,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0894,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0895,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0896,Replacement of hydraulic reservoir seals,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0897,Upgrade of nose gear actuator,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0898,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",High
+MOD0899,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Low
+MOD0900,Modification of flap control hydraulic lines,Hydraulics,"CS 25.1438, CS 25.1309",Medium
+MOD0901,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0902,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0903,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0904,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0905,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0906,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0907,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0908,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0909,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0910,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0911,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0912,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0913,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0914,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",High
+MOD0915,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0916,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0917,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0918,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",High
+MOD0919,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0920,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0921,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0922,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0923,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0924,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0925,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0926,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0927,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0928,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0929,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0930,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0931,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0932,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0933,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0934,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0935,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0936,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0937,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0938,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0939,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0940,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0941,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0942,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0943,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0944,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0945,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0946,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0947,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0948,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",High
+MOD0949,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0950,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0951,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0952,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0953,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0954,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0955,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0956,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0957,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",High
+MOD0958,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0959,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0960,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0961,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",High
+MOD0962,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0963,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0964,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0965,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",High
+MOD0966,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0967,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0968,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0969,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0970,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0971,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0972,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0973,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0974,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0975,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0976,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0977,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0978,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0979,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0980,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0981,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0982,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0983,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0984,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0985,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",High
+MOD0986,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0987,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0988,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0989,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0990,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0991,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0992,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0993,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",High
+MOD0994,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0995,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0996,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Low
+MOD0997,Replacement of engine mount bolts,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0998,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD0999,Installation of new engine vibration monitoring system,Powerplant,"CS 25.901, CS 25.903",Medium
+MOD1000,Modification of nacelle fairing design,Powerplant,"CS 25.901, CS 25.903",Low

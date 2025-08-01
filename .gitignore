@@ -138,12 +138,11 @@ models/*.pth
 models/*.onnx
 models/*.joblib
 
-# Large data files
-data/*.csv
 data/*.json
 data/*.xlsx
 data/*.parquet
-!data/sample_*.csv
+!data/mods_dataset.csv
+!data/regulations_db.csv
 
 # Embeddings and vectors
 *.npy

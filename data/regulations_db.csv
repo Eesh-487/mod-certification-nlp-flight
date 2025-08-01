@@ -1,0 +1,63 @@
+regulation_id,title,description,category,applicability
+CS 25.1309,Equipment systems and installations,Systems and associated components must be designed to ensure safe operation
+Avionics,All aircraft systems
+CS 25.1431,Electronic equipment,Electronic systems must not interfere with aircraft operation,Avionics,Electronic systems
+AMC 20-22,Guidance on Communications Equipment,Advisory material for communication system certification,Avionics,Communication systems
+CS 25.773,Pilot compartment view,Pilot must have adequate view for safe operation,Cabin,Flight deck design
+CS 25.1381,Instrument lights,Adequate lighting for instrument reading,Cabin,Lighting systems
+AMC 25-11,Cabin Safety,Advisory material for cabin safety requirements,Cabin,Cabin systems
+CS 25.561,General structural requirements,Structure must withstand specified loads,Structure,All structures
+CS 25.783,Doors,Door design and operation requirements,Structure,Door systems
+CS 25.807,Emergency exits,Emergency exit design and performance,Safety,Emergency systems
+CS 25.143,General design requirements,Aircraft control and maneuverability,Structure,Control systems
+CS 25.321,General design loads,Load factors and distributions,Structure,Load analysis
+CS 25.629,Aeroelastic stability,Flutter and vibration requirements,Structure,Aeroelastic analysis
+CS 25.853,Compartment interiors,Fire protection and materials,Cabin,Interior materials
+CS 25.857,Cargo compartment classification,Cargo area safety requirements,Cabin,Cargo systems
+CS 25.1329,Flight guidance system,Autopilot and flight director systems,Avionics,Flight guidance
+AMC 20-115,RNAV Systems,Area navigation system guidance,Avionics,Navigation
+CS 25.729,Landing gear,Landing gear design requirements,Systems,Landing gear
+CS 25.731,Wheels and tires,Wheel and tire specifications,Systems,Landing gear
+CS 25.735,Brakes and braking systems,Brake system performance,Systems,Landing gear
+CS 25.1441,Oxygen equipment and supply,Oxygen system requirements,Systems,Life support
+CS 25.1443,Minimum mass flow of oxygen,Oxygen flow rate specifications,Systems,Life support
+AMC 25-1441,Oxygen Systems,Advisory material for oxygen systems,Systems,Life support
+CS 25.562,Emergency landing dynamic conditions,Dynamic testing requirements,Safety,Emergency systems
+CS 25.785,Seats belts harnesses and restraint systems,Restraint system requirements,Safety,Restraint systems
+CS 25.1181,Designated fire zones,Fire zone identification,Systems,Fire protection
+CS 25.1195,Fire extinguishing systems,Fire suppression requirements,Systems,Fire protection
+CS 25.1197,Fire extinguishing agents,Fire suppression agent specifications,Systems,Fire protection
+AMC 20-130,Airworthiness approval of navigation systems,Navigation system certification,Avionics,Navigation
+CS 36.1,Noise certification,Aircraft noise standards,Structure,Noise control
+CS 36.5,Trade-offs,Noise certification trade-offs,Structure,Noise control
+AMC 36-02,Noise Certification,Advisory material for noise certification,Structure,Noise control
+CS 25.809,Emergency exit arrangement,Emergency exit placement,Safety,Emergency systems
+AMC 25-17,Emergency Evacuation,Advisory material for evacuation systems,Safety,Emergency systems
+AMC 20-151,TCAS II,Traffic collision avoidance system,Avionics,Collision avoidance
+CS 25.831,Ventilation,Cabin ventilation requirements,Systems,Environmental control
+CS 25.832,Cabin ozone concentration,Ozone protection requirements,Systems,Environmental control
+AMC 25-831,Cabin Air Quality,Advisory material for air quality,Systems,Environmental control
+AMC 20-158,SATCOM Systems,Satellite communication system guidance,Avionics,Communication
+CS 25.1457,Cockpit voice recorders,Voice recorder requirements,Avionics,Recording systems
+CS 25.1459,Flight data recorders,Flight data recorder specifications,Avionics,Recording systems
+AMC 25-1457,Flight Recorders,Advisory material for flight recorders,Avionics,Recording systems
+CS 25.933,Reversing systems,Thrust reverser requirements,Propulsion,Thrust reversal
+CS 25.934,Turbojet engine thrust reverser systems,Jet engine reverser specifications,Propulsion,Thrust reversal
+AMC 20-149,Thrust Reversers,Advisory material for thrust reversers,Propulsion,Thrust reversal
+AMC 20-144,Portable Electronic Devices,PED interference guidance,Avionics,Electronic devices
+CS 25.1419,Ice protection,Ice protection system requirements,Systems,Ice protection
+CS 25.1420,Supercooled large drop icing conditions,SLD icing protection,Systems,Ice protection
+CS 25.1421,Megaphone or other means of crew communication,Crew communication systems,Systems,Communication
+AMC 20-156,Radio Altimeters,Radio altimeter certification guidance,Avionics,Altitude measurement
+CS 25.787,Cargo and baggage compartments,Cargo area requirements,Systems,Cargo handling
+CS 25.812,Emergency lighting,Emergency lighting systems,Safety,Emergency lighting
+AMC 25-12,Emergency Lighting,Advisory material for emergency lighting,Safety,Emergency lighting
+CS 25.1323,Airspeed indicating system,Airspeed measurement systems,Avionics,Flight instruments
+CS 25.965,Fuel tank tests,Fuel tank integrity requirements,Systems,Fuel systems
+CS 25.967,Fuel tank installation,Fuel tank installation requirements,Systems,Fuel systems
+CS 25.975,Fuel tank venting,Fuel tank ventilation systems,Systems,Fuel systems
+CS 25.1383,Landing lights,Landing light requirements,Systems,Lighting
+CS 25.841,Pressurized cabins,Cabin pressurization systems,Systems,Pressurization
+CS 25.843,Tests for pressurized cabins,Pressurization system testing,Systems,Pressurization
+AMC 25-841,Cabin Pressurization,Advisory material for pressurization,Systems,Pressurization
+AMC 20-161,EGPWS,Enhanced ground proximity warning systems,Avionics,Ground proximity
