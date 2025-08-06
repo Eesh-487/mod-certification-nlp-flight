@@ -340,119 +340,48 @@ Based on the modification database, {len(results['similar_mods'])} similar modif
         """Main application runner"""
         # Header with enhanced styling
         st.markdown("""
-        <div style="text-align: center; padding: 1.5rem 0; background: linear-gradient(135deg, #0e4166 0%, #0a81c4 100%); border-radius: 10px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <h1 style="color: white; margin-bottom: 0.5rem; font-size: 2.5rem;">✈️ Aircraft Modification Certification</h1>
-            <p style="font-size: 1.3em; color: rgba(255,255,255,0.9); margin-bottom: 0.5rem;">
-                <strong>AI-powered certification assistant for aviation professionals</strong>
+        <div style="text-align: center; padding: 1rem 0;">
+            <h1>✈️ Aircraft Modification Certification Support Tool</h1>
+            <p style="font-size: 1.2em; color: #666;">
+                <strong>AI-powered assistant for aircraft modification classification and certification support</strong>
             </p>
-            <div style="display: inline-block; background-color: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 50px; margin-top: 5px;">
-                <span style="color: #f0f0f0; font-size: 0.9em;">
-                    <em>Classify modifications • Map regulations • Predict LOI • Find similar cases</em>
-                </span>
-            </div>
+            <p style="color: #888;">
+                <em>Classify modifications • Map regulations • Predict LOI • Find similar modifications</em>
+            </p>
         </div>
         """, unsafe_allow_html=True)
         
         # Sidebar
         with st.sidebar:
-            st.markdown("""
-            <div style="text-align: center; margin-bottom: 1rem;">
-                <h3 style="color: #0a81c4; font-weight: 600; border-bottom: 2px solid #0a81c4; padding-bottom: 8px;">
-                    �️ Control Center
-                </h3>
-            </div>
-            """, unsafe_allow_html=True)
+            st.markdown("### 📊 Control Panel")
             
             # Data Status
-            st.markdown("""
-            <div style="margin-top: 1rem; margin-bottom: 0.5rem;">
-                <h4 style="color: #555; font-weight: 500; font-size: 1.1rem;">
-                    📁 Data Status
-                </h4>
-            </div>
-            """, unsafe_allow_html=True)
-            
+            st.markdown("#### 📁 Data Status")
             if st.session_state.get('data_loaded', False):
-                st.success(f"✅ Database loaded: {len(self.df)} modifications")
+                st.success(f"✅ Data loaded: {len(self.df)} modifications")
             else:
-                st.warning("⚠️ Using demo data for preview")
+                st.warning("⚠️ Using sample data")
             
             # System Status
-            st.markdown("""
-            <div style="margin-top: 1.5rem; margin-bottom: 0.5rem;">
-                <h4 style="color: #555; font-weight: 500; font-size: 1.1rem;">
-                    ⚙️ System Status
-                </h4>
-            </div>
-            """, unsafe_allow_html=True)
-            
+            st.markdown("#### 🛠️ System Status")
             if ADVANCED_FEATURES:
-                st.success("✅ Advanced ML features active")
+                st.success("✅ Advanced ML features available")
             else:
                 st.info("📋 Rule-based analysis mode")
             
             # Settings
-            st.markdown("""
-            <div style="margin-top: 1.5rem; margin-bottom: 0.5rem;">
-                <h4 style="color: #555; font-weight: 500; font-size: 1.1rem;">
-                    🔧 Analysis Settings
-                </h4>
-            </div>
-            """, unsafe_allow_html=True)
+            st.markdown("#### ⚙️ Analysis Settings")
+            similarity_threshold = st.slider("Similarity Threshold", 0.0, 1.0, 0.1, 0.05)
+            max_similar = st.slider("Max Similar Modifications", 1, 10, 5)
             
-            similarity_threshold = st.slider(
-                "Similarity Threshold", 
-                min_value=0.0, 
-                max_value=1.0, 
-                value=0.1, 
-                step=0.05,
-                help="Minimum similarity score required to include a modification in results"
-            )
-            
-            max_similar = st.slider(
-                "Max Similar Cases", 
-                min_value=1, 
-                max_value=10, 
-                value=5,
-                help="Maximum number of similar modifications to display"
-            )
-            
-            # Quick stats with nicer formatting
-            st.markdown("""
-            <div style="margin-top: 1.5rem; margin-bottom: 0.5rem;">
-                <h4 style="color: #555; font-weight: 500; font-size: 1.1rem;">
-                    📊 Database Overview
-                </h4>
-            </div>
-            """, unsafe_allow_html=True)
-            
-            col1, col2 = st.columns(2)
-            with col1:
-                st.metric("Total Cases", len(self.df), delta=None)
-            with col2:
-                st.metric("Modification Types", self.df['mod_type'].nunique(), delta=None)
-            
-            col1, col2 = st.columns(2)
-            with col1:
-                st.metric("LOI Levels", self.df['loi'].nunique(), delta=None)
-            with col2:
-                high_loi = len(self.df[self.df['loi'] == 'High'])
-                st.metric("High LOI Cases", high_loi, delta=f"{high_loi/len(self.df):.0%}")
-                
-            # Footer
-            st.markdown("""
-            <div style="position: fixed; bottom: 0; left: 0; width: 100%; background: linear-gradient(90deg, #0e4166 0%, #0a81c4 100%); padding: 10px; text-align: center; font-size: 0.8rem; color: white; margin-top: 2rem;">
-                © 2025 Aircraft Certification Tool
-            </div>
-            """, unsafe_allow_html=True)
+            # Quick stats
+            st.markdown("#### 📈 Quick Stats")
+            st.metric("Total Modifications", len(self.df))
+            st.metric("Modification Types", self.df['mod_type'].nunique())
+            st.metric("LOI Levels", self.df['loi'].nunique())
         
         # Main content tabs
-        tab1, tab2, tab3, tab4 = st.tabs([
-            "🔍 Analysis", 
-            "📊 Statistics", 
-            "📋 Database", 
-            "ℹ️ About"
-        ])
+        tab1, tab2, tab3, tab4 = st.tabs(["🔍 Analysis", "📊 Statistics", "📋 Database", "ℹ️ About"])
         
         with tab1:
             self.render_analysis_tab(similarity_threshold, max_similar)
@@ -468,73 +397,43 @@ Based on the modification database, {len(results['similar_mods'])} similar modif
     
     def render_analysis_tab(self, similarity_threshold, max_similar):
         """Render the main analysis tab"""
-        st.markdown("""
-        <div style="background-color: #f8f9fa; padding: 1rem; border-radius: 10px; margin-bottom: 1rem; border-left: 5px solid #0a81c4;">
-            <h3 style="color: #0a81c4; margin-bottom: 0.5rem;">📝 Modification Analysis</h3>
-            <p style="color: #555; margin-bottom: 0;">Enter details about the aircraft modification to classify and analyze it.</p>
-        </div>
-        """, unsafe_allow_html=True)
+        st.markdown("### 📝 Modification Description")
         
-        # Input options with improved layout
+        # Input options
         col1, col2 = st.columns([3, 1])
         
         with col1:
             input_option = st.selectbox(
                 "Choose input method:",
                 ["Custom Input"] + [f"Example {i+1}: {desc[:50]}..." 
-                                  for i, desc in enumerate(self.df['mod_description'].head(5))],
-                help="Select 'Custom Input' to enter your own description or choose an example"
+                                  for i, desc in enumerate(self.df['mod_description'].head(5))]
             )
         
         with col2:
-            analysis_mode = st.selectbox(
-                "Analysis Mode", 
-                ["Standard", "Detailed"],
-                help="Standard shows core results, Detailed shows full certification analysis"
-            )
+            analysis_mode = st.selectbox("Analysis Mode", ["Standard", "Detailed"])
         
-        # Description input with better styling
         if input_option == "Custom Input":
             description = st.text_area(
                 "Enter modification description:",
-                placeholder="Describe the aircraft modification in detail including systems affected, components changed, and purpose...",
-                height=120,
+                placeholder="Enter detailed description of the aircraft modification...",
+                height=100,
                 help="Provide a comprehensive description including technical details, systems involved, and modification scope."
             )
-            
-            # Show character count
-            if description:
-                char_count = len(description)
-                quality = "Excellent" if char_count > 100 else "Good" if char_count > 50 else "Basic"
-                st.caption(f"Description length: {char_count} characters ({quality} level of detail)")
         else:
             # Extract the example description
             example_idx = int(input_option.split(":")[0].replace("Example ", "")) - 1
             description = self.df.iloc[example_idx]['mod_description']
-            
-            # Display in a nicer box
-            st.markdown(f"""
-            <div style="background-color: #f0f7fb; padding: 1rem; border-radius: 5px; border-left: 3px solid #0a81c4;">
-                <p style="margin: 0; color: #333;">{description}</p>
-            </div>
-            """, unsafe_allow_html=True)
+            st.text_area("Modification Description:", value=description, height=100, disabled=True)
         
-        # Analysis button with improved styling
-        st.markdown("<br>", unsafe_allow_html=True)  # Add some spacing
-        
+        # Analysis button
         col1, col2, col3 = st.columns([1, 2, 1])
         with col2:
-            analyze_button = st.button(
-                "🚀 Analyze Modification", 
-                type="primary", 
-                use_container_width=True,
-                help="Click to analyze the modification description"
-            )
-            if description.strip():
+            if st.button("🚀 Analyze Modification", type="primary", use_container_width=True):
+                if description.strip():
                     with st.spinner("Analyzing modification..."):
                         results = self.perform_analysis(description, max_similar, similarity_threshold)
                         self.display_results(results, analysis_mode)
-            else:
+                else:
                     st.warning("Please enter a modification description.")
         
         # Quick examples
