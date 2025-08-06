@@ -428,13 +428,14 @@ Based on the modification database, {len(results['similar_mods'])} similar modif
         # Analysis button
         col1, col2, col3 = st.columns([1, 2, 1])
         with col2:
-            if st.button("🚀 Analyze Modification", type="primary", use_container_width=True):
-                if description.strip():
-                    with st.spinner("Analyzing modification..."):
-                        results = self.perform_analysis(description, max_similar, similarity_threshold)
-                        self.display_results(results, analysis_mode)
-                else:
-                    st.warning("Please enter a modification description.")
+            analyze_clicked = st.button("🚀 Analyze Modification", type="primary", use_container_width=True)
+        if analyze_clicked:
+            if description.strip():
+                with st.spinner("Analyzing modification..."):
+                    results = self.perform_analysis(description, max_similar, similarity_threshold)
+                    self.display_results(results, analysis_mode)
+            else:
+                st.warning("Please enter a modification description.")
         
         # Quick examples
         st.markdown("---")
