@@ -205,8 +205,8 @@ BATCH_SIZE = 1000  # Reduce if memory issues persist
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
+Eesh Khanna 
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
